@@ -1,0 +1,267 @@
+
+[00:00:00.000 --> 00:00:03.060]   So Ruhi, let me quickly show this to you right now.
+[00:00:03.060 --> 00:00:05.550]   The moment I just go back to latest,
+[00:00:05.550 --> 00:00:11.020]   and if I just switch to something called as code right here,
+[00:00:11.700 --> 00:00:16.290]   you can see the entire code of our application.
+[00:00:16.290 --> 00:00:18.130]   And this is our code,
+[00:00:18.130 --> 00:00:22.400]   which means this is our intellectual property.
+[00:00:22.400 --> 00:00:24.160]   This is our IP, right?
+[00:00:24.160 --> 00:00:26.290]   It's our code now.
+[00:00:26.290 --> 00:00:29.010]   So we can go ahead and use this code.
+[00:00:29.010 --> 00:00:31.030]   We can modify this code.
+[00:00:31.030 --> 00:00:32.190]   We can update this code.
+[00:00:32.190 --> 00:00:34.720]   We can do whatever we want to, right?
+[00:00:34.720 --> 00:00:38.180]   So that's basically how it is.
+[00:00:38.180 --> 00:00:41.540]   Okay guys, I think we are almost there, right?
+[00:00:41.540 --> 00:00:47.380]   I think we're almost there testing prop flow in browser.
+[00:00:47.380 --> 00:00:52.290]   Guys, another job of a QA tester, right?
+[00:00:52.290 --> 00:00:57.500]   Another job of a QA tester, AI is doing it by itself.
+[00:00:57.500 --> 00:00:58.770]   Do you see this?
+[00:00:58.770 --> 00:01:01.250]   Guys, this used to be a job, guys.
+[00:01:01.250 --> 00:01:03.290]   Like, do you get it?
+[00:01:03.290 --> 00:01:05.440]   This used to be a job where, you know,
+[00:01:05.440 --> 00:01:07.840]   after the app is entirely built out,
+[00:01:07.840 --> 00:01:10.380]   it was sent out to a QA tester.
+[00:01:10.380 --> 00:01:14.750]   The QA tester used to,
+[00:01:14.750 --> 00:01:16.500]   yeah, the QA tester used to, you know,
+[00:01:16.500 --> 00:01:25.140]   a look at it, test it out, right?
+[00:01:25.140 --> 00:01:26.960]   Yes, Walter, you are correct.
+[00:01:26.960 --> 00:01:28.040]   Walter, you are correct.
+[00:01:28.040 --> 00:01:37.080]   It's months of development work.
+[00:01:37.080 --> 00:01:39.320]   Okay, for chatbot, AI API is needed.
+[00:01:39.320 --> 00:01:40.690]   Yes, Kunal, it is.
+[00:01:40.690 --> 00:01:45.280]   So lovable adds its own API as well.
+[00:01:45.280 --> 00:01:49.840]   Okay, signing up for every test agent,
+[00:01:49.840 --> 00:01:54.560]   retrying the signup flow chart for flow test.
+[00:01:54.560 --> 00:02:03.180]   Okay, okay, I think we're getting close.
+[00:02:03.180 --> 00:02:05.650]   We're getting close.
+[00:02:05.650 --> 00:02:08.030]   Retrying the signup flow.
+[00:02:08.030 --> 00:02:12.950]   Guys, our QA tester is now able to test it out.
+[00:02:12.950 --> 00:02:16.240]   Now our QA tester is able to, you know,
+[00:02:16.240 --> 00:02:19.050]   see if our application is working or not.
+[00:02:19.050 --> 00:02:20.850]   Guys, isn't it crazy?
+[00:02:20.850 --> 00:02:24.490]   It's like five to six engineers, developers,
+[00:02:24.490 --> 00:02:26.720]   all of them properly, you know,
+[00:02:26.720 --> 00:02:34.210]   in our entire chat working together, right?
+[00:02:34.210 --> 00:02:40.210]   Okay, okay, okay, we're getting close.
+[00:02:40.210 --> 00:02:41.770]   Let's see your thought process.
+[00:02:41.770 --> 00:02:43.570]   The toggle button might be failing
+[00:02:43.570 --> 00:02:47.530]   because the selector doesn't match the actual button text.
+[00:02:47.530 --> 00:02:51.240]   It's looking for new to prop flow, create an account.
+[00:02:51.240 --> 00:02:54.750]   When the name might be different, that's crazy, okay?
+[00:02:54.750 --> 00:02:57.510]   It's trying to understand its own, you know,
+[00:02:57.510 --> 00:03:02.240]   kind of errors that might be there on the website.
+[00:03:02.240 --> 00:03:07.220]   The toggle button text should be matching, okay?
+[00:03:07.220 --> 00:03:11.450]   It's gonna retry the test for us.
+[00:03:11.450 --> 00:03:12.370]   Let's wait for it.
+[00:03:12.370 --> 00:03:26.430]   It's gonna retry the test for us.
+[00:03:26.430 --> 00:03:30.720]   Okay, yeah, exactly, thought for six seconds.
+[00:03:30.720 --> 00:03:35.240]   Yes, of our, yeah, it's, you know,
+[00:03:35.240 --> 00:03:42.830]   it was thinking for six seconds.
+[00:03:42.830 --> 00:03:45.540]   Okay, once again, it's checking this again.
+[00:03:45.540 --> 00:03:50.770]   I don't know why it's checking it so many times though.
+[00:03:50.770 --> 00:03:56.300]   Testing, signup, dashboard, and AI assistant.
+[00:03:56.300 --> 00:03:58.770]   Yes, we can absolutely host it as well.
+[00:03:58.770 --> 00:04:11.470]   Once we build it out, we can host it as well.
+[00:04:11.470 --> 00:04:17.080]   Okay, exactly, exactly George.
+[00:04:17.080 --> 00:04:19.890]   I think it seems to be stuck in the, you know,
+[00:04:19.890 --> 00:04:22.650]   Google sign in thing.
+[00:04:22.650 --> 00:04:24.950]   Let's see, maybe it figured out an error.
+[00:04:24.950 --> 00:04:27.240]   Maybe it's able to, you know,
+[00:04:27.240 --> 00:04:39.860]   find the error and able to fix it.
+[00:04:39.860 --> 00:04:43.260]   Okay, I think this almost took 51 seconds to work on it.
+[00:04:43.260 --> 00:04:47.350]   So let's see, let's see.
+[00:04:47.350 --> 00:04:48.310]   Guys, do you see it?
+[00:04:48.310 --> 00:04:51.290]   I think there's like an image of the dashboard.
+[00:04:51.290 --> 00:04:53.490]   I think it's not a fully built out thing,
+[00:04:53.490 --> 00:04:56.050]   but we are almost there.
+[00:04:56.050 --> 00:04:58.550]   Guys, damn, doesn't it look so good?
+[00:04:58.550 --> 00:05:02.230]   The dashboard looks really good.
+[00:05:02.230 --> 00:05:03.430]   I think we're getting close.
+[00:05:03.430 --> 00:05:05.280]   We're getting very, very close.
+[00:05:05.280 --> 00:05:08.130]   Yes, it's the login page, but it's still an image though.
+[00:05:08.130 --> 00:05:10.650]   It's not built out, it's still an image.
+[00:05:10.650 --> 00:05:14.520]   So a retesting dashboard.
+[00:05:14.520 --> 00:05:18.600]   Okay, it's testing it way too many times at this point.
+[00:05:18.600 --> 00:05:19.920]   Let me, let me see.
+[00:05:19.920 --> 00:05:22.000]   Should I be waiting or should I prompt it again?
+[00:05:22.000 --> 00:05:25.810]   Let me think.
+[00:05:25.810 --> 00:05:28.490]   Yeah, but looking at the image, it looks very good.
+[00:05:28.490 --> 00:05:30.390]   It looks very, very professional.
+[00:05:30.390 --> 00:05:32.030]   Okay, I think it did work, right?
+[00:05:32.030 --> 00:05:33.150]   Do you see that?
+[00:05:33.150 --> 00:05:36.610]   Account created, check your email to confirm the sign in.
+[00:05:36.610 --> 00:05:41.750]   So I'm guessing it actually worked.
+[00:05:41.750 --> 00:05:44.240]   Okay, guys, look at that.
+[00:05:44.240 --> 00:05:47.120]   That's how the chat, you know, the dashboard looks like.
+[00:05:47.120 --> 00:05:49.560]   Okay, now I can't wait to see
+[00:05:49.560 --> 00:05:53.020]   the entire dashboard working in person.
+[00:05:53.020 --> 00:05:55.120]   All right, let's wait for it.
+[00:05:55.120 --> 00:05:56.760]   Testing the assistant endpoint,
+[00:05:56.760 --> 00:06:05.580]   checking the AI gateway connection.
+[00:06:05.580 --> 00:06:08.720]   Okay, the issue isn't a code bug,
+[00:06:08.720 --> 00:06:10.520]   but rather the gateway blocking
+[00:06:10.520 --> 00:06:12.770]   due to workspace credit limit.
+[00:06:12.770 --> 00:06:15.280]   Okay, I think it's just that I just have to
+[00:06:15.280 --> 00:06:19.520]   add some more credits into my lovable account,
+[00:06:19.520 --> 00:06:22.990]   but the rest would be properly working completely.
+[00:06:22.990 --> 00:06:29.520]   So let's test this out.
+[00:06:29.520 --> 00:06:43.500]   Okay, okay, it's reading its guys.
+[00:06:43.500 --> 00:06:47.210]   It's reading its own server logs, right?
+[00:06:47.210 --> 00:06:49.530]   Whatever log it might have just made,
+[00:06:49.530 --> 00:06:53.290]   it's looking into all of it by itself.
+[00:06:53.290 --> 00:06:57.190]   Guys, I think it's almost done.
+[00:06:57.190 --> 00:06:58.030]   Guys, do you see that?
+[00:06:58.030 --> 00:07:02.300]   It says prompt, prompt flow MVP is live.
+[00:07:02.300 --> 00:07:04.380]   Landing plus email, Google sign in.
+[00:07:04.380 --> 00:07:06.930]   Guys, it's live right now.
+[00:07:06.930 --> 00:07:10.540]   Poof, I think that was a lot of effort, wasn't it?
+[00:07:10.540 --> 00:07:13.300]   That was a lot of hard work,
+[00:07:13.300 --> 00:07:15.140]   giving it a prompt and laying back
+[00:07:15.140 --> 00:07:16.810]   and vibing with you guys.
+[00:07:16.810 --> 00:07:20.300]   Guys, that was a lot of hard work, right?
+[00:07:20.300 --> 00:07:22.630]   Right, like how engineers would have done it.
+[00:07:22.630 --> 00:07:25.120]   They might have taken days to do it.
+[00:07:25.120 --> 00:07:27.000]   Right, guys, I put in a lot of effort.
+[00:07:27.000 --> 00:07:30.640]   Poof, okay, right?
+[00:07:30.640 --> 00:07:35.470]   Okay, now let's go ahead and actually check it out.
+[00:07:35.470 --> 00:07:38.430]   Guys, you all ready to check this out?
+[00:07:38.430 --> 00:07:40.990]   Boom in the chat, guys, to check it out.
+[00:07:40.990 --> 00:07:47.770]   Boom in the chat, please.
+[00:07:47.770 --> 00:07:51.580]   Okay, let's go ahead and test it out.
+[00:07:51.580 --> 00:07:54.690]   Let me click on the preview button.
+[00:07:54.690 --> 00:08:01.230]   Damn, I think that looks really good.
+[00:08:01.230 --> 00:08:03.050]   That looks good.
+[00:08:03.050 --> 00:08:07.720]   Your leads, listing and site visits,
+[00:08:07.720 --> 00:08:11.170]   finally in one flow.
+[00:08:11.170 --> 00:08:13.250]   Okay, guys, I didn't even ask it
+[00:08:13.250 --> 00:08:16.830]   to build out a landing page and it did.
+[00:08:16.830 --> 00:08:19.720]   It even built out a landing page as well.
+[00:08:19.720 --> 00:08:21.280]   Let's go ahead and test it out.
+[00:08:21.280 --> 00:08:22.910]   Let's sign in, okay?
+[00:08:22.910 --> 00:08:29.960]   Let me click on the sign in button and let's see.
+[00:08:29.960 --> 00:08:32.460]   Poof, it looks good.
+[00:08:32.460 --> 00:08:34.420]   Okay, now let's check it out.
+[00:08:34.420 --> 00:08:39.740]   Okay, let me connect with Google and, okay,
+[00:08:39.740 --> 00:08:46.950]   let me connect with my account.
+[00:08:46.950 --> 00:08:52.720]   Okay, now I just have to click on allow.
+[00:08:52.720 --> 00:09:01.120]   Okay, we're taking a second.
+[00:09:01.120 --> 00:09:06.130]   Guys, we have the entire dashboard
+[00:09:06.130 --> 00:09:10.290]   completely built out right now.
+[00:09:10.290 --> 00:09:13.600]   Do you see that, guys?
+[00:09:13.600 --> 00:09:18.650]   A complete dashboard fully built out right now
+[00:09:18.650 --> 00:09:23.760]   and we can check all different stages, everything.
+[00:09:23.760 --> 00:09:28.200]   New, contacted, with a schedule,
+[00:09:28.200 --> 00:09:31.600]   everything we can completely check.
+[00:09:31.600 --> 00:09:34.580]   Let's click on properties.
+[00:09:34.580 --> 00:09:39.080]   Damn, I didn't even know I own so many properties.
+[00:09:39.080 --> 00:09:40.880]   Like a 2.5 crore property
+[00:09:40.880 --> 00:09:44.550]   that's like $220,000 property, guys,
+[00:09:44.550 --> 00:09:48.650]   and another $500,000 property, another $100,000.
+[00:09:48.650 --> 00:09:50.590]   Another $350,000 and a $200,000, guys.
+[00:09:50.590 --> 00:09:53.060]   I think I'm a multimillionaire at this point.
+[00:09:53.060 --> 00:09:56.810]   I own so many properties, okay?
+[00:09:56.810 --> 00:10:00.080]   Guys, isn't that amazing, right?
+[00:10:00.080 --> 00:10:01.500]   Isn't that amazing?
+[00:10:01.500 --> 00:10:03.730]   You see all of these, right?
+[00:10:03.730 --> 00:10:05.120]   You see all of these.
+[00:10:05.120 --> 00:10:07.880]   Of course, these are all still test data.
+[00:10:07.880 --> 00:10:11.400]   It's test data that it just added by itself.
+[00:10:11.400 --> 00:10:14.400]   So it's not hallucination.
+[00:10:14.400 --> 00:10:16.520]   So, Arpan, it's not hallucination.
+[00:10:16.520 --> 00:10:20.900]   It has added test data for us to test it out.
+[00:10:20.900 --> 00:10:23.200]   It is connected with the database for sure.
+[00:10:23.200 --> 00:10:24.760]   But it just added test data
+[00:10:24.760 --> 00:10:26.440]   because we just have to check it out.
+[00:10:26.440 --> 00:10:28.040]   That's the reason.
+[00:10:28.040 --> 00:10:32.330]   Let's check site visits as well, okay?
+[00:10:32.330 --> 00:10:36.510]   Site visits, scheduled, all of this amazing, right?
+[00:10:36.510 --> 00:10:37.890]   Perfect.
+[00:10:37.890 --> 00:10:39.490]   Now that this entire, guys,
+[00:10:39.490 --> 00:10:42.480]   I think this part is absolutely perfect, right?
+[00:10:42.480 --> 00:10:44.780]   This thing is even better.
+[00:10:44.780 --> 00:10:47.950]   So now, let's go ahead and do this, right?
+[00:10:47.950 --> 00:10:49.590]   Let me just go ahead and do this.
+[00:10:49.590 --> 00:10:51.430]   Yeah, the AI chat board, let's see.
+[00:10:51.430 --> 00:10:54.660]   I think I'm not sure if this might work.
+[00:10:54.660 --> 00:10:57.500]   It's because I might have to, you know,
+[00:10:57.500 --> 00:10:59.400]   upgrade to that credits.
+[00:10:59.400 --> 00:11:00.240]   Let's see.
+[00:11:00.240 --> 00:11:01.520]   Let's see if it works.
+[00:11:01.520 --> 00:11:03.360]   Let me click on summarize my pipeline.
+[00:11:03.360 --> 00:11:04.200]   Let's see if that works.
+[00:11:04.200 --> 00:11:05.290]   Okay.
+[00:11:05.290 --> 00:11:07.290]   AI credits are exhausted for this workspace.
+[00:11:07.290 --> 00:11:08.350]   Add credits.
+[00:11:08.350 --> 00:11:09.890]   I'll try to do that.
+[00:11:09.890 --> 00:11:15.480]   But for now, let's go ahead and publish this, right?
+[00:11:15.480 --> 00:11:19.430]   Let's go ahead and publish this and make it live.
+[00:11:19.430 --> 00:11:26.680]   Let me click on publish button.
+[00:11:26.680 --> 00:11:28.160]   And then let me just go ahead
+[00:11:28.160 --> 00:11:31.150]   and click on the publish button right here.
+[00:11:31.150 --> 00:11:34.550]   And it would be able to publish everything live.
+[00:11:34.550 --> 00:11:35.790]   And I'll be able to, you know,
+[00:11:35.790 --> 00:11:38.360]   share it in the chat with you guys.
+[00:11:38.360 --> 00:11:48.900]   I'll be able to share it in the chat.
+[00:11:48.900 --> 00:11:52.170]   Okay, guys, our site is now live.
+[00:11:52.170 --> 00:11:54.950]   If I click on view site, visit site,
+[00:11:54.950 --> 00:11:58.420]   this is the entire link.
+[00:11:58.420 --> 00:12:00.410]   If you wanna test it out,
+[00:12:00.410 --> 00:12:04.750]   let me go ahead and paste it in the chat.
+[00:12:04.750 --> 00:12:06.790]   Guys, I'm pasting it in the chat.
+[00:12:06.790 --> 00:12:08.890]   Please test it out.
+[00:12:08.890 --> 00:12:09.810]   Please test it out.
+[00:12:09.810 --> 00:12:12.340]   Okay, the AI chat board is not working.
+[00:12:12.340 --> 00:12:15.470]   Let me try to make this work as well, okay?
+[00:12:15.470 --> 00:12:17.940]   All right, guys, first test it out in a minute.
+[00:12:17.940 --> 00:12:20.740]   And now I'm gonna quickly explain to you guys
+[00:12:20.740 --> 00:12:24.080]   what I'm gonna do to make this work.
+[00:12:24.080 --> 00:12:26.080]   And now we can test it out as well, okay?
+[00:12:26.080 --> 00:12:26.920]   It works, right?
+[00:12:26.920 --> 00:12:27.980]   It works, okay.
+[00:12:27.980 --> 00:12:31.510]   Now, right here, right here,
+[00:12:31.510 --> 00:12:34.320]   let me explain this to you, okay?
+[00:12:34.320 --> 00:12:37.190]   Now, now that you understand this,
+[00:12:37.190 --> 00:12:41.020]   to make this, to make our AI chat board work, okay?
+[00:12:41.020 --> 00:12:44.460]   So our AI chat bot lives here, okay?
+[00:12:44.460 --> 00:12:47.560]   Our AI chat bot, right?
+[00:12:47.560 --> 00:12:50.040]   This is our AI chat bot.
+[00:12:50.040 --> 00:12:55.410]   Now, guys, to connect the backend with the AI chat bot,
+[00:12:55.410 --> 00:12:57.370]   what do we need?
+[00:12:57.370 --> 00:13:00.320]   Guys, what do we need to connect our AI chat bot?
+[00:13:00.320 --> 00:13:01.770]   To backend, what do we need?
+[00:13:01.770 --> 00:13:02.610]   An API, right?
+[00:13:02.610 --> 00:13:04.090]   An API.
+[00:13:04.090 --> 00:13:07.160]   So right now, what I'm gonna do is,
+[00:13:07.160 --> 00:13:12.230]   I am gonna add my own API into this
+[00:13:12.230 --> 00:13:16.120]   and make the AI chat bot work.
+[00:13:16.120 --> 00:13:17.040]   Let's do that, okay?
+[00:13:17.040 --> 00:13:20.550]   Let's quickly, quickly do this, AI chat bot.
+[00:13:20.550 --> 00:13:24.290]   And I'm showing this to you completely live, okay?
+[00:13:24.290 --> 00:13:26.670]   And now, of course, you need the API.
+[00:13:26.670 --> 00:13:28.230]   Guys, any guesses?
+[00:13:28.230 --> 00:13:33.040]   What API would you need to make the AI chat bot work?
+[00:13:33.040 --> 00:13:37.050]   API is correct, but what API?
+[00:13:37.050 --> 00:13:39.550]   What API would you need?
+[00:13:39.550 --> 00:13:42.580]   Correct, absolutely.
+[00:13:42.580 --> 00:13:46.280]   I think Rudra has just mentioned it.
+[00:13:46.280 --> 00:13:49.430]   It's open AI API, right?
+[00:13:49.430 --> 00:13:53.450]   We need the open AI API to go ahead
+[00:13:53.450 --> 00:13:59.270]   and make our backend connect with our chat bot, right?
+[00:13:59.310 --> 00:14:02.100]   We need the open AI API key.
+[00:14:02.100 --> 00:14:04.020]   Now, watch carefully.
+[00:14:04.020 --> 00:14:06.100]   Guys, please, please watch carefully
+[00:14:06.100 --> 00:14:07.980]   on how I'm gonna get my API
+[00:14:07.980 --> 00:14:11.130]   and how I would be adding it here, okay?
+[00:14:11.130 --> 00:14:17.220]   Now, let me quickly go to my dashboard now.
+[00:14:17.220 --> 00:14:19.500]   I would be heading to a place,
+[00:14:19.500 --> 00:14:25.070]   it's called platform.openai.com, right?
+[00:14:27.560 --> 00:14:30.840]   Platform.openai.com.
+[00:14:30.840 --> 00:14:35.360]   This is where I would be able to,
+[00:14:35.360 --> 00:14:39.660]   I would be able to grab my API key, right?
+[00:14:39.660 --> 00:14:41.700]   I would be able to grab my API.
+[00:14:41.700 --> 00:14:45.900]   I'll get my API key from this place, okay?
+[00:14:45.900 --> 00:14:50.630]   Now, yeah, so I do have some balance here.
+[00:14:50.630 --> 00:14:55.560]   So let me go ahead and quickly, quickly create an API key.
+[00:14:55.560 --> 00:14:57.240]   So let me create a quick API key.
+[00:14:57.240 --> 00:14:58.530]   I'm gonna call it,

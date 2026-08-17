@@ -1,0 +1,4 @@
+psutil<8,>=5.9
+
+[dev]
+pytest<9,>=8

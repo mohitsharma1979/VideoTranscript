@@ -1,0 +1,35 @@
+{
+  "note": "Agreement metrics compare engines; neither transcript is ground truth.",
+  "samples": [
+    {
+      "sample": "beginning",
+      "faster_words": 2494,
+      "whisper_cpp_words": 2483,
+      "word_count_difference_percent": 0.441,
+      "word_sequence_similarity": 0.985734,
+      "symmetric_word_edit_rate": 0.019647,
+      "faster_segments": 134,
+      "whisper_cpp_segments": 152
+    },
+    {
+      "sample": "middle",
+      "faster_words": 1819,
+      "whisper_cpp_words": 1830,
+      "word_count_difference_percent": 0.605,
+      "word_sequence_similarity": 0.983831,
+      "symmetric_word_edit_rate": 0.022951,
+      "faster_segments": 266,
+      "whisper_cpp_segments": 266
+    },
+    {
+      "sample": "end",
+      "faster_words": 2407,
+      "whisper_cpp_words": 2416,
+      "word_count_difference_percent": 0.374,
+      "word_sequence_similarity": 0.986523,
+      "symmetric_word_edit_rate": 0.020695,
+      "faster_segments": 137,
+      "whisper_cpp_segments": 135
+    }
+  ]
+}

@@ -1,0 +1,679 @@
+{
+  "engine": "faster-whisper",
+  "file": "beginning.wav",
+  "elapsed_seconds": 180.6902085000038,
+  "language": "en",
+  "language_probability": 0.9306753873825073,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "text": "saw that of course there is magic prompt formula where you can go ahead and define a role task"
+    },
+    {
+      "start": 5.76,
+      "end": 12.24,
+      "text": "instruction data but beyond of this we also spoke about context engineering which is"
+    },
+    {
+      "start": 12.96,
+      "end": 18.96,
+      "text": "these AI models have become extremely smart as of today and that is going to continue to happen."
+    },
+    {
+      "start": 20.48,
+      "end": 27.28,
+      "text": "What that means for all of us is that you don't have to really stick to a formula but all the"
+    },
+    {
+      "start": 27.28,
+      "end": 33.2,
+      "text": "elements of a great prompt is what you should be having in your prompt as well no matter which"
+    },
+    {
+      "start": 33.2,
+      "end": 39.04,
+      "text": "order you put it in because AI is smart enough to rearrange the order for itself to understand"
+    },
+    {
+      "start": 39.04,
+      "end": 46.24,
+      "text": "but you always need to make sure that there is role task instruction data in whatever order"
+    },
+    {
+      "start": 46.24,
+      "end": 52.08,
+      "text": "you may want to go ahead and place it in. Now after learning prompt engineering and context"
+    },
+    {
+      "start": 52.08,
+      "end": 58.96,
+      "text": "engineering we went ahead and built our own generative AI toolkit. Yes we saw multiple"
+    },
+    {
+      "start": 58.96,
+      "end": 63.28,
+      "text": "different tools and I'm going to quickly run you all through the different names of the tools"
+    },
+    {
+      "start": 63.28,
+      "end": 69.92,
+      "text": "that we saw yesterday but everybody who missed out I will also be sharing a resource document"
+    },
+    {
+      "start": 69.92,
+      "end": 77.2,
+      "text": "towards the end after the lunch break so you have all of these links etc captured so hold on till"
+    },
+    {
+      "start": 77.2,
+      "end": 83.76,
+      "text": "the lunch break till I go ahead and drop it in but the first tool that we showed everybody is a"
+    },
+    {
+      "start": 83.76,
+      "end": 90.88,
+      "text": "tool that we use quite extensively internally at outskill which is whisper flow and everybody"
+    },
+    {
+      "start": 90.88,
+      "end": 96.48,
+      "text": "all across the world has started using whisper flow today because of how incredibly powerful it is"
+    },
+    {
+      "start": 96.48,
+      "end": 103.52,
+      "text": "it converts your speech to text so you don't have to write your prompts or type out your prompts"
+    },
+    {
+      "start": 103.52,
+      "end": 110.08,
+      "text": "anymore it's incredibly powerful and then we explored Gemini by Google we also saw multiple"
+    },
+    {
+      "start": 110.08,
+      "end": 117.6,
+      "text": "use cases of Claude by Anthropic we saw fireflies.ai which is an AI agent that can attend meetings on"
+    },
+    {
+      "start": 117.6,
+      "end": 125.36,
+      "text": "behalf of you and we also saw how we could connect fireflies to an LLM like Claude using something"
+    },
+    {
+      "start": 125.36,
+      "end": 132.72,
+      "text": "called as a connector we saw Fort AI which can create product photo shoots for us we saw super"
+    },
+    {
+      "start": 132.8,
+      "end": 138.16,
+      "text": "growth that can help us write content on LinkedIn we saw happenstance that can help us"
+    },
+    {
+      "start": 139.04,
+      "end": 145.36,
+      "text": "grow I mean happenstance is like this social media web it helps you grow your entire network"
+    },
+    {
+      "start": 145.36,
+      "end": 151.76,
+      "text": "we saw numerous dot AI which is a data analyst it can sit inside your google sheets it can sit"
+    },
+    {
+      "start": 151.76,
+      "end": 158.08,
+      "text": "inside your excel files and help you with all of those formulae that probably you always were"
+    },
+    {
+      "start": 158.16,
+      "end": 166.4,
+      "text": "scared of we saw suno.ai which can create music for us and then in the second half of the day"
+    },
+    {
+      "start": 166.4,
+      "end": 172.16,
+      "text": "we went ahead and learned markdown prompting structure and then we learned five different"
+    },
+    {
+      "start": 172.16,
+      "end": 177.92,
+      "text": "levels now take a quick screenshot of this particular slide as well I will explain what"
+    },
+    {
+      "start": 177.92,
+      "end": 183.2,
+      "text": "all of these five levels are towards the lunch break but please go ahead and take a screenshot"
+    },
+    {
+      "start": 183.2,
+      "end": 191.79,
+      "text": "of this and once you do give me a thumbs up that you're ready with the screenshot of this"
+    },
+    {
+      "start": 192.51,
+      "end": 198.27,
+      "text": "there's a roadmap that we spoke about that we would that we would be giving to everybody"
+    },
+    {
+      "start": 198.27,
+      "end": 203.95,
+      "text": "so that you can go deep into all of these levels post the mastermind as well and that is the roadmap"
+    },
+    {
+      "start": 203.95,
+      "end": 209.95,
+      "text": "that I have with me I will be sharing that towards the lunch break today but while I share that I"
+    },
+    {
+      "start": 209.95,
+      "end": 216.35,
+      "text": "will explain this roadmap yesterday we spoke about the outcomes that you could get to by going deep"
+    },
+    {
+      "start": 216.35,
+      "end": 222.91,
+      "text": "into all of these five different levels today's focus is going to be majorly on the advanced"
+    },
+    {
+      "start": 222.91,
+      "end": 229.55,
+      "text": "levels which is level four and level five wherein we will actually learn the process of going ahead"
+    },
+    {
+      "start": 229.55,
+      "end": 235.63,
+      "text": "and building our own products and later in the second half of the day we're going to be learning"
+    },
+    {
+      "start": 235.63,
+      "end": 243.23,
+      "text": "how we could go ahead and set up our own automations as well with that I hope I've done a decent"
+    },
+    {
+      "start": 243.31,
+      "end": 249.39,
+      "text": "enough job with the recap yes are you are we all on the same page right now did everybody who"
+    },
+    {
+      "start": 249.39,
+      "end": 254.11,
+      "text": "missed out did you all get a sense of all the things that we learned and covered yesterday"
+    },
+    {
+      "start": 255.63,
+      "end": 259.79,
+      "text": "yes does that mean that we are all ready to get started with day two"
+    },
+    {
+      "start": 263.98,
+      "end": 268.46,
+      "text": "Yuvraja if you had attended the engineering mastermind yesterday that could have been different"
+    },
+    {
+      "start": 269.42,
+      "end": 275.26,
+      "text": "and that's absolutely fine right Darshini I'll speak about context engineering"
+    },
+    {
+      "start": 275.26,
+      "end": 280.7,
+      "text": "towards the end as well but I'm loving the energy that all of you are dropping in on the chat"
+    },
+    {
+      "start": 281.42,
+      "end": 286.46,
+      "text": "now what is it that we are going to be learning today what are we getting started with today"
+    },
+    {
+      "start": 287.5,
+      "end": 294.78,
+      "text": "how many of you know how to write code and how many of you do not know how to write code drop in"
+    },
+    {
+      "start": 294.78,
+      "end": 302.05,
+      "text": "yes if you know how to write code and drop in no if you do not know how to write code wow"
+    },
+    {
+      "start": 303.01,
+      "end": 309.73,
+      "text": "insane I see I see most of you saying no and I see that a few people are dropping in yes"
+    },
+    {
+      "start": 309.73,
+      "end": 318.61,
+      "text": "and a few people are saying 50 50 okay interesting now I had mentioned this yesterday as well"
+    },
+    {
+      "start": 318.61,
+      "end": 324.85,
+      "text": "that to a large extent generative AI and all these models have democratized the landscape between"
+    },
+    {
+      "start": 324.85,
+      "end": 330.93,
+      "text": "non-technical people and technical people now all the people who dropped in a no when I asked you"
+    },
+    {
+      "start": 330.93,
+      "end": 338.53,
+      "text": "if you know how to write code all of these people who dropped in a no my next question to all of you"
+    },
+    {
+      "start": 338.53,
+      "end": 344.93,
+      "text": "is did you ever have an idea of a product that you wanted to build but you could not build that"
+    },
+    {
+      "start": 344.93,
+      "end": 350.13,
+      "text": "because you do not know how to write code and you did not have the money to go ahead and hire an"
+    },
+    {
+      "start": 350.13,
+      "end": 355.65,
+      "text": "engineer or developer did that ever happen to you that you wanted to build a product you thought it"
+    },
+    {
+      "start": 355.65,
+      "end": 361.57,
+      "text": "would be a great business idea or a product that could work out in the market as well but unfortunately"
+    },
+    {
+      "start": 361.57,
+      "end": 367.33,
+      "text": "you were not able to pursue it because you did not have an engineer around you did that ever happen"
+    },
+    {
+      "start": 367.33,
+      "end": 375.97,
+      "text": "to any one of you or was I or am I the odd one out because five years back five to ten years back"
+    },
+    {
+      "start": 375.97,
+      "end": 383.49,
+      "text": "I used to have so many of these ideas however I'm also non-technical I never learned how to write code"
+    },
+    {
+      "start": 383.49,
+      "end": 389.49,
+      "text": "and that always used to be a limitation for me to go ahead and build websites build landing pages"
+    },
+    {
+      "start": 389.49,
+      "end": 396.77,
+      "text": "build products and have people use them but today generative AI has completely solved that I see"
+    },
+    {
+      "start": 397.57,
+      "end": 406.13,
+      "text": "I see that a lot of you are relating to the same problem Shivani okay my screen is visible"
+    },
+    {
+      "start": 406.13,
+      "end": 412.93,
+      "text": "but even if my screen is not visible it's okay right because today what we are going to be learning"
+    },
+    {
+      "start": 412.93,
+      "end": 419.73,
+      "text": "is we are going to be learning how we can use AI to build products it's called vibe coding"
+    },
+    {
+      "start": 420.93,
+      "end": 428.05,
+      "text": "with vibe coding we would all be able to bring our ideas to life in this in the next two and a half"
+    },
+    {
+      "start": 428.05,
+      "end": 435.65,
+      "text": "hours from now we will actually pick a concept concept of a product or an AI power tool and we"
+    },
+    {
+      "start": 435.65,
+      "end": 441.89,
+      "text": "will actually try to build it together does that sound exciting if that sounds exciting drop in a"
+    },
+    {
+      "start": 441.97,
+      "end": 448.85,
+      "text": "heart we don't need to be technical people anymore we don't need to know how to write code ourselves"
+    },
+    {
+      "start": 448.85,
+      "end": 455.81,
+      "text": "all that we need to know is write set of tools and how to orchestrate them or guide them or"
+    },
+    {
+      "start": 455.81,
+      "end": 462.13,
+      "text": "drive them in the right way and to help all of us learn vibe coding we have Harshit coming in"
+    },
+    {
+      "start": 462.13,
+      "end": 467.73,
+      "text": "Harshit has been teaching thousands of people across the world how they could build products"
+    },
+    {
+      "start": 467.73,
+      "end": 473.57,
+      "text": "of their own he also today builds enterprise level products for a lot of companies today"
+    },
+    {
+      "start": 473.57,
+      "end": 479.33,
+      "text": "he's here to teach all of us the secrets of vibe coding Harshit I hope you are able to hear me well"
+    },
+    {
+      "start": 482.05,
+      "end": 488.85,
+      "text": "yes absolutely funny I can hear you wonderful let me quickly put this spotlight on you"
+    },
+    {
+      "start": 489.65,
+      "end": 495.57,
+      "text": "perfect perfect I think the chat was booming up but folks are you all able to see Harshit and hear"
+    },
+    {
+      "start": 495.65,
+      "end": 509.94,
+      "text": "him well yes perfect Harshit thank you so much for being here today I think we have a very energetic"
+    },
+    {
+      "start": 509.94,
+      "end": 515.78,
+      "text": "and excited audience we could get started yes absolutely funny I was definitely looking at"
+    },
+    {
+      "start": 516.34,
+      "end": 520.82,
+      "text": "you know the questions that you've asked and I see a lot of people are also non-coders"
+    },
+    {
+      "start": 520.82,
+      "end": 524.82,
+      "text": "so I think a lot a lot of non-coders will gain a lot of value from this session for sure"
+    },
+    {
+      "start": 525.38,
+      "end": 531.7,
+      "text": "yes yes and Shyam please don't spam on the chat we are going to be learning right now everything"
+    },
+    {
+      "start": 531.7,
+      "end": 536.58,
+      "text": "about the accelerator program and anything around it I'll go ahead and talk about it towards the"
+    },
+    {
+      "start": 536.58,
+      "end": 542.66,
+      "text": "lunch break but if anybody spams on the chat we will have to put you out of the call right"
+    },
+    {
+      "start": 542.66,
+      "end": 549.86,
+      "text": "but over to you Harshit we could get started absolutely all right guys okay so before we"
+    },
+    {
+      "start": 550.5,
+      "end": 555.54,
+      "text": "get started guys let me be very honest right there's one thing I want to clear out before I start"
+    },
+    {
+      "start": 555.54,
+      "end": 564.74,
+      "text": "this right guys one thing that I want to tell you guys is that I am a complete non-coder I cannot"
+    },
+    {
+      "start": 564.74,
+      "end": 571.86,
+      "text": "write a single line of code I have not done engineering as my background right as my formal"
+    },
+    {
+      "start": 571.86,
+      "end": 578.5,
+      "text": "studies I'm a complete non-coder and I'm still able to build production grade applications"
+    },
+    {
+      "start": 578.5,
+      "end": 586.02,
+      "text": "right so that is what we'll be diving into right now right so now that's clear let me just you"
+    },
+    {
+      "start": 586.02,
+      "end": 591.14,
+      "text": "know quickly go ahead and kind of share my screen right kind of share my screen and walk you over"
+    },
+    {
+      "start": 591.14,
+      "end": 597.06,
+      "text": "like why you will listen to me and what is you know what's the potential that we have in this"
+    },
+    {
+      "start": 597.7,
+      "end": 604.66,
+      "text": "era of using all these white coding tools right okay so first thing guys this is me that's my"
+    },
+    {
+      "start": 604.66,
+      "end": 613.22,
+      "text": "website right here Harshit.com right and even to build a small website like this just two years ago"
+    },
+    {
+      "start": 613.94,
+      "end": 619.94,
+      "text": "I had to approach a developer friend of mine I had to approach them saying hey you know I want to"
+    },
+    {
+      "start": 619.94,
+      "end": 625.38,
+      "text": "create a website where I you know I have my photo and I kind of you know want to add like all this"
+    },
+    {
+      "start": 625.38,
+      "end": 632.02,
+      "text": "all the work that I've done all of that right but guys it would have been so difficult for me because"
+    },
+    {
+      "start": 632.1,
+      "end": 638.26,
+      "text": "my ideas they were very hard to communicate with the engineer or the developer and they didn't fully"
+    },
+    {
+      "start": 638.26,
+      "end": 642.74,
+      "text": "get it and like you know I never was able to you know get something out even a very small"
+    },
+    {
+      "start": 643.3,
+      "end": 648.82,
+      "text": "portfolio website right because as a professional a portfolio website is the most basic thing that"
+    },
+    {
+      "start": 648.82,
+      "end": 654.58,
+      "text": "you need and that's what I've understood right now in the age of white coding guys white coding"
+    },
+    {
+      "start": 654.58,
+      "end": 659.86,
+      "text": "is a form of expression right it is a form of expression where you can go ahead and express"
+    },
+    {
+      "start": 659.86,
+      "end": 666.58,
+      "text": "yourself truly right you could go ahead and express yourself truly in whatever form it is"
+    },
+    {
+      "start": 666.58,
+      "end": 672.34,
+      "text": "and that's why now I'm actually featured on the Forbes Technical Council in the artificial"
+    },
+    {
+      "start": 672.34,
+      "end": 678.82,
+      "text": "intelligence division and then I also went on to work as a head of growth at a Y Combinator"
+    },
+    {
+      "start": 678.82,
+      "end": 684.42,
+      "text": "bag startup so Y Combinator guys for the ones who don't know it's one of the it's the world's"
+    },
+    {
+      "start": 684.42,
+      "end": 690.98,
+      "text": "biggest accelerator so it's actually accelerated the biggest companies that you know like OpenAI,"
+    },
+    {
+      "start": 690.98,
+      "end": 699.14,
+      "text": "Airbnb, Stripe, Coinbase, Grow, Zepto, Reddit like all the biggest companies came from Y Combinator"
+    },
+    {
+      "start": 699.14,
+      "end": 705.78,
+      "text": "and I have learned a lot of my principles also from the Y Combinator ecosystem as well now"
+    },
+    {
+      "start": 706.5,
+      "end": 713.22,
+      "text": "as guys even as a non-poeder now I'm able to run my own venture company which is called"
+    },
+    {
+      "start": 713.22,
+      "end": 721.3,
+      "text": "Hershit Ventures and I actually run not one but five different AI companies under one venture fund"
+    },
+    {
+      "start": 721.3,
+      "end": 728.18,
+      "text": "so all of them are working agentically all of them are handled by AI agents itself and you know"
+    },
+    {
+      "start": 728.18,
+      "end": 734.18,
+      "text": "just to give you an example of the potential like look at this right like I just built out a dashboard"
+    },
+    {
+      "start": 734.18,
+      "end": 740.02,
+      "text": "just last weekend for my own newsletter so I just wanted to know like automate my thoughts"
+    },
+    {
+      "start": 740.1,
+      "end": 745.94,
+      "text": "into like a nice newsletter which I wanted to send out but even to build a product like this"
+    },
+    {
+      "start": 746.74,
+      "end": 753.3,
+      "text": "would have taken me a lot of time and a lot of you know engineering effort before but now"
+    },
+    {
+      "start": 753.3,
+      "end": 760.5,
+      "text": "if I could see it in my mind I can just go ahead prompt it and build like a proper dashboard you"
+    },
+    {
+      "start": 760.5,
+      "end": 765.54,
+      "text": "know something like this right I mean you know just a basic dashboard right why not because"
+    },
+    {
+      "start": 765.54,
+      "end": 772.82,
+      "text": "if I can build like custom code I can build custom applications for myself that is the potential"
+    },
+    {
+      "start": 772.82,
+      "end": 780.66,
+      "text": "of what is possible with vibe coding right and now of course I've been I've been mentoring"
+    },
+    {
+      "start": 780.66,
+      "end": 785.14,
+      "text": "at outskill for about one and a half year right now and you know thought about more than thousands"
+    },
+    {
+      "start": 785.14,
+      "end": 791.46,
+      "text": "of people are here so I think you know we got that out of the way so yeah let's get started"
+    },
+    {
+      "start": 791.54,
+      "end": 797.54,
+      "text": "with a very small presentation that I have just prepared right and guys before we get started"
+    },
+    {
+      "start": 797.54,
+      "end": 802.74,
+      "text": "into the presentation let me tell you these foundations are very important right and trust"
+    },
+    {
+      "start": 802.74,
+      "end": 809.06,
+      "text": "me we'll not just have you know we'll not just have only slides we will definitely get into the"
+    },
+    {
+      "start": 809.62,
+      "end": 817.86,
+      "text": "build phase as well shortly but these foundations are very important the reason being I myself"
+    },
+    {
+      "start": 817.86,
+      "end": 826.1,
+      "text": "when I started you know when I started you know a vibe coding I spent a lot of money I spent a lot"
+    },
+    {
+      "start": 826.1,
+      "end": 831.86,
+      "text": "of you know I wasted a lot of money and time because I didn't understand the foundations"
+    },
+    {
+      "start": 831.86,
+      "end": 838.58,
+      "text": "I wish I had a presentation like this you know before starting right so that is basically"
+    },
+    {
+      "start": 839.46,
+      "end": 847.06,
+      "text": "you know is what I have here so you know let's get into it okay I do see a lot of questions here"
+    },
+    {
+      "start": 847.06,
+      "end": 853.54,
+      "text": "right so what about base 44 what is vibe coding we will get into all of these guys okay we'll get"
+    },
+    {
+      "start": 853.54,
+      "end": 860.18,
+      "text": "into all of these and also I'll keep the chat open you guys can you know ask me questions I'll try"
+    },
+    {
+      "start": 860.18,
+      "end": 866.42,
+      "text": "to pick whichever I can guys I might not be able to answer everything but I'll try my best to answer"
+    },
+    {
+      "start": 866.42,
+      "end": 874.02,
+      "text": "as many questions as possible and some of your questions will be clarified as and when we proceed"
+    },
+    {
+      "start": 874.9,
+      "end": 885.3,
+      "text": "okay perfect let's dive into this right now vibe coding the foundations right all right so the next"
+    },
+    {
+      "start": 885.3,
+      "end": 893.22,
+      "text": "60 minutes we will be diving into three of these the first one is how apps actually work behind the"
+    },
+    {
+      "start": 893.22,
+      "end": 899.86,
+      "text": "scenes and how AI even became capable of writing them and then which tools to"
+    }
+  ]
+}

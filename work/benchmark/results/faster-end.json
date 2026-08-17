@@ -1,0 +1,694 @@
+{
+  "engine": "faster-whisper",
+  "file": "end.wav",
+  "elapsed_seconds": 185.71713591599837,
+  "language": "en",
+  "language_probability": 0.7802969217300415,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.44,
+      "text": "the 11th of September that you see here is basically the day when a 14-day mega sprint"
+    },
+    {
+      "start": 5.44,
+      "end": 10.8,
+      "text": "gets started. Folks, just give me one second. As you look at this slide, as you read through the"
+    },
+    {
+      "start": 10.8,
+      "end": 16.24,
+      "text": "topics that we will be teaching in these 14 days, just give me one second. I'm just coming back."
+    },
+    {
+      "start": 22.19,
+      "end": 28.59,
+      "text": "Yes, I am right here. I just had to close the door so that there's no disturbance coming in."
+    },
+    {
+      "start": 28.59,
+      "end": 35.15,
+      "text": "But the cohort starts with a 14-day mega sprint wherein for 14 consecutive days,"
+    },
+    {
+      "start": 35.15,
+      "end": 40.67,
+      "text": "that's more than 100 plus hours of live teaching, you will be learning all of the things that you"
+    },
+    {
+      "start": 40.67,
+      "end": 46.51,
+      "text": "need to go from level 1 to level 5. I want all of you to drop in a heart if you think this is"
+    },
+    {
+      "start": 46.51,
+      "end": 52.59,
+      "text": "absolutely a mind-blowing approach because here, by working with senior working professionals,"
+    },
+    {
+      "start": 52.59,
+      "end": 58.99,
+      "text": "we realize that the most important thing for everybody is time. It's not money. It's not"
+    },
+    {
+      "start": 58.99,
+      "end": 64.43,
+      "text": "anything else. All of those are inconsequential. It's the time that people have and where do"
+    },
+    {
+      "start": 64.43,
+      "end": 70.27,
+      "text": "they have to spend that time? Now, if you were to spend six months, one year to just learn,"
+    },
+    {
+      "start": 70.83,
+      "end": 76.03,
+      "text": "when is it that you would go ahead and apply? That's the reason why we took this call of"
+    },
+    {
+      "start": 76.11,
+      "end": 81.39,
+      "text": "teaching everybody everything in just 14 days. Now, these 14 days are, of course,"
+    },
+    {
+      "start": 82.35,
+      "end": 88.67,
+      "text": "tough and grilling. Every day, you have to come, you have to attend the session,"
+    },
+    {
+      "start": 88.67,
+      "end": 93.23,
+      "text": "learn, complete a project that we will be making you do inside of breakout rooms,"
+    },
+    {
+      "start": 93.23,
+      "end": 97.79,
+      "text": "unlike what we do inside the mastermind. We have breakout rooms in the program. So,"
+    },
+    {
+      "start": 97.79,
+      "end": 102.83,
+      "text": "every single day, you will be going ahead and participating in breakout rooms to build on"
+    },
+    {
+      "start": 102.83,
+      "end": 109.63,
+      "text": "projects. Let's say day one, we teach you mastering AI playgrounds and deploying local AI models."
+    },
+    {
+      "start": 109.63,
+      "end": 115.07,
+      "text": "By the end of the call, you will actually have installed local AI models that you can run in"
+    },
+    {
+      "start": 115.07,
+      "end": 120.27,
+      "text": "your system. When we talk about day two, image and video manipulation, you will actually walk"
+    },
+    {
+      "start": 120.27,
+      "end": 125.31,
+      "text": "out of the entire session by building your own AI clone like the one that Webhub showed."
+    },
+    {
+      "start": 125.79,
+      "end": 133.15,
+      "text": "Day three, you would have created your own innate account locally and you would have"
+    },
+    {
+      "start": 133.15,
+      "end": 138.43,
+      "text": "built your first automation by day three of the program. That is how every day of the program"
+    },
+    {
+      "start": 138.43,
+      "end": 145.07,
+      "text": "goes by and then we go into setting up MCP workflows, setting up connectors. Then on day six,"
+    },
+    {
+      "start": 145.07,
+      "end": 151.87,
+      "text": "we go into building voice agents. Day seven, we go into building employees like Saltman,"
+    },
+    {
+      "start": 151.95,
+      "end": 157.79,
+      "text": "Chevy, etc. The process to build these employees largely remains the same. How do you want to"
+    },
+    {
+      "start": 157.79,
+      "end": 163.87,
+      "text": "interact with the employee changes completely? All of that will be taught and you will actually"
+    },
+    {
+      "start": 163.87,
+      "end": 168.99,
+      "text": "walk out on day seven because it's a full day. You will be walking out by building the first"
+    },
+    {
+      "start": 168.99,
+      "end": 175.31,
+      "text": "version of your very own executive assistant. Then on day eight and day nine, we go deep into"
+    },
+    {
+      "start": 175.31,
+      "end": 182.59,
+      "text": "clod. Day 10, we go into advanced MCPs and workflows. Day 11, we learn about building back"
+    },
+    {
+      "start": 182.59,
+      "end": 189.71,
+      "text": "in for AI systems. Day 12, we go deep into codecs. Day 13, we go deep into open claw, which is"
+    },
+    {
+      "start": 189.71,
+      "end": 196.59,
+      "text": "another agentic harness incredibly powerful and you should be integrating open claw as well"
+    },
+    {
+      "start": 196.59,
+      "end": 203.31,
+      "text": "to your personal executive assistant and then we finally end all of it with monetization 101."
+    },
+    {
+      "start": 204.27,
+      "end": 211.07,
+      "text": "Why monetization 101? Because while we don't promise this because it completely depends on"
+    },
+    {
+      "start": 211.07,
+      "end": 217.63,
+      "text": "your own execution post, you learn everything. We want people to have the direction to make"
+    },
+    {
+      "start": 217.63,
+      "end": 223.95,
+      "text": "money after the program gets over, to land opportunities after the program gets over"
+    },
+    {
+      "start": 223.95,
+      "end": 229.79,
+      "text": "and that is the roadmap that we go ahead and teach you on day 14 of the entire program."
+    },
+    {
+      "start": 229.79,
+      "end": 234.35,
+      "text": "Now, there are two dates. Of course, like you can see, I will also drop in the dates on the chat"
+    },
+    {
+      "start": 234.35,
+      "end": 240.51,
+      "text": "for those of you who are going ahead and blocking your seats. By the way, my team tells me that"
+    },
+    {
+      "start": 240.51,
+      "end": 248.7,
+      "text": "there are, my team tells me that there are 17 more slots remaining at this point of time"
+    },
+    {
+      "start": 248.7,
+      "end": 254.78,
+      "text": "out of the ones that we have gone ahead and opened up. There are 17 more slots."
+    },
+    {
+      "start": 255.66,
+      "end": 276.51,
+      "text": "Is what my team just messaged? Let me just, okay. Okay. There are 14 more slots remaining"
+    },
+    {
+      "start": 276.51,
+      "end": 282.51,
+      "text": "right now based on what my team said, but I asked them to keep the link active and the link is this."
+    },
+    {
+      "start": 282.51,
+      "end": 287.87,
+      "text": "So this is the part one of the program, everyone. And there are two slots that you can go ahead"
+    },
+    {
+      "start": 287.87,
+      "end": 294.03,
+      "text": "and book. Once you book your slot right now, you can also defer your enrollment to a future slot"
+    },
+    {
+      "start": 294.03,
+      "end": 298.91,
+      "text": "in case it doesn't work out for you. And what are the timings? Well, Monday to Friday,"
+    },
+    {
+      "start": 298.91,
+      "end": 304.75,
+      "text": "it's going to be 7.30pm to 11pm IST. Saturday and Sunday, it's going to be full day."
+    },
+    {
+      "start": 304.75,
+      "end": 311.31,
+      "text": "This is for the first 14 days. I told you that this is the level of commitment that we would need"
+    },
+    {
+      "start": 311.31,
+      "end": 317.15,
+      "text": "from people. So, you know, you have the dates, you have the timings right here and recordings to all"
+    },
+    {
+      "start": 317.15,
+      "end": 323.07,
+      "text": "of the sessions of the first 14 days will be provided to you. Now, after the first 14 days,"
+    },
+    {
+      "start": 323.07,
+      "end": 330.03,
+      "text": "what happens? You get into a 48 hour buildathon where you will actually go ahead and build products"
+    },
+    {
+      "start": 330.67,
+      "end": 336.59,
+      "text": "with a team, build one product and a solution. And you go ahead and pitch that product to the"
+    },
+    {
+      "start": 336.59,
+      "end": 342.67,
+      "text": "rest of the cohort and a few mentors and judges that we would be bringing in. And this is where,"
+    },
+    {
+      "start": 342.67,
+      "end": 347.95,
+      "text": "you know, for the buildathon, we usually have cash rewards and all of that that we do. But ideally,"
+    },
+    {
+      "start": 347.95,
+      "end": 353.87,
+      "text": "the intent of doing all of that gamification is to bring in that startup kind of an atmosphere"
+    },
+    {
+      "start": 353.87,
+      "end": 360.67,
+      "text": "into every team of the hackathon as well, right? Because of that, today, some of the teams have"
+    },
+    {
+      "start": 360.67,
+      "end": 367.39,
+      "text": "continued to work together as teams itself post the entire program as well. They have continued"
+    },
+    {
+      "start": 367.39,
+      "end": 372.27,
+      "text": "to work on their startups and everything around it. So, that is the kind of experience that you"
+    },
+    {
+      "start": 372.27,
+      "end": 378.83,
+      "text": "will also have post the buildathon. After that, we give you access to three different content"
+    },
+    {
+      "start": 378.83,
+      "end": 386.7,
+      "text": "libraries. What are these content libraries? Let me quickly show that to you. There you go."
+    },
+    {
+      "start": 387.42,
+      "end": 393.9,
+      "text": "What are these content libraries? You get access to an AI content library, you get access to a"
+    },
+    {
+      "start": 393.9,
+      "end": 399.74,
+      "text": "business fellowship content library, and you get access to monetization content library."
+    },
+    {
+      "start": 400.7,
+      "end": 405.34,
+      "text": "These are the three content libraries that you will be getting access to. The AI content library"
+    },
+    {
+      "start": 405.34,
+      "end": 411.1,
+      "text": "is essentially going to help you go deeper into AI concepts. Modern Business Fellowship"
+    },
+    {
+      "start": 411.1,
+      "end": 416.46,
+      "text": "content library is something that we borrowed from Cairo School of Business, because in today's world,"
+    },
+    {
+      "start": 416.46,
+      "end": 423.82,
+      "text": "just learning AI is not going to be sufficient. You need to also have strong business foundations."
+    },
+    {
+      "start": 423.82,
+      "end": 428.3,
+      "text": "You have business foundations, first principles, thinking, design, thinking, problem solving"
+    },
+    {
+      "start": 428.3,
+      "end": 435.5,
+      "text": "abilities. All of those have to be extremely strong. And that is why Cairo School of Business"
+    },
+    {
+      "start": 435.5,
+      "end": 443.58,
+      "text": "built out this incredible program where CXOs of companies like Swiggy, Zomato, Port, etc."
+    },
+    {
+      "start": 443.58,
+      "end": 449.74,
+      "text": "have come in and taught foundations of growing businesses. You get access to all of that content"
+    },
+    {
+      "start": 449.74,
+      "end": 455.34,
+      "text": "and a certificate from them as well. And we built out a content library of monetization as well,"
+    },
+    {
+      "start": 455.34,
+      "end": 460.62,
+      "text": "where we have gone ahead and taught how you could grow your personal brand, what you could do"
+    },
+    {
+      "start": 460.62,
+      "end": 465.26,
+      "text": "with digital distribution and everything around it. How do you do cold outreach and stuff?"
+    },
+    {
+      "start": 465.9,
+      "end": 471.18,
+      "text": "All of this can be used by you to implement everything that you have learned in the first"
+    },
+    {
+      "start": 471.18,
+      "end": 478.54,
+      "text": "14 days and through the AI content library as well. Now, once the first five parts are done,"
+    },
+    {
+      "start": 479.26,
+      "end": 486.86,
+      "text": "you also get access to one live session every week for you to get regular AI updates and for"
+    },
+    {
+      "start": 486.86,
+      "end": 492.86,
+      "text": "you to be able to ask questions. Next, we do something called as monthly AI sprints. What are"
+    },
+    {
+      "start": 492.86,
+      "end": 499.9,
+      "text": "these AI sprints? Every month, you get a free access as part of the program to a two to three"
+    },
+    {
+      "start": 499.9,
+      "end": 505.58,
+      "text": "days sprint. And that sprint depends on the latest technology that has come up into the market at"
+    },
+    {
+      "start": 506.14,
+      "end": 511.9,
+      "text": "that particular in that particular month. Like, for example, Hermos Agents is a sprint that we"
+    },
+    {
+      "start": 511.9,
+      "end": 516.54,
+      "text": "did very recently for all of our community members because when they did the program,"
+    },
+    {
+      "start": 516.54,
+      "end": 522.78,
+      "text": "Hermos Agents were not even a thing. Now, everybody wants to go ahead and use that. So, we did a"
+    },
+    {
+      "start": 522.78,
+      "end": 528.14,
+      "text": "sprint on that and taught people how they could leverage Hermos Agents and how they could build"
+    },
+    {
+      "start": 528.14,
+      "end": 533.58,
+      "text": "them as well. And all of them were able to build it over three entire days of the sprint. We do"
+    },
+    {
+      "start": 533.58,
+      "end": 539.42,
+      "text": "multiple such sprints and all of these sprints are available for you. And then you have an online"
+    },
+    {
+      "start": 539.42,
+      "end": 545.82,
+      "text": "AI community for one entire year. So, we wanted to come up with a program that helps people learn"
+    },
+    {
+      "start": 545.82,
+      "end": 553.5,
+      "text": "the important things fast and then support them for one entire year. And while doing this, we"
+    },
+    {
+      "start": 553.5,
+      "end": 560.62,
+      "text": "understood that one of the problems that people are going to be getting into is, give me a second,"
+    },
+    {
+      "start": 564.32,
+      "end": 570.48,
+      "text": "one of the problems that people have been getting into is that they did not have access to tools."
+    },
+    {
+      "start": 572.56,
+      "end": 586.27,
+      "text": "Just a second. People did not have access to tools and that is the reason why we went ahead"
+    },
+    {
+      "start": 586.27,
+      "end": 592.27,
+      "text": "and collaborated with multiple companies to get you access to these tools with the enrollment"
+    },
+    {
+      "start": 592.27,
+      "end": 599.63,
+      "text": "of the program today. So, that is everything that we had gone ahead and built out everyone"
+    },
+    {
+      "start": 600.03,
+      "end": 608.35,
+      "text": ". There you go. I see that people have already gone ahead and blocked their slots. The people who"
+    },
+    {
+      "start": 608.35,
+      "end": 613.87,
+      "text": "are wanting to go ahead and do that, you have the link right there on the chat. Once again,"
+    },
+    {
+      "start": 613.87,
+      "end": 618.59,
+      "text": "I will go ahead and drop it in. But any questions about the program, everyone,"
+    },
+    {
+      "start": 620.19,
+      "end": 625.47,
+      "text": "any questions about the program right now that I could answer for you to give you more clarity,"
+    },
+    {
+      "start": 625.47,
+      "end": 629.71,
+      "text": "you could either go ahead and make your full payment happen or you could go ahead and make a"
+    },
+    {
+      "start": 629.71,
+      "end": 635.79,
+      "text": "booking amount as well happen. If you have gone ahead and blocked your seat, you can drop in a"
+    },
+    {
+      "start": 635.79,
+      "end": 643.47,
+      "text": "done message on the chat and I will go ahead and give you a confirmation as well. This whole"
+    },
+    {
+      "start": 643.47,
+      "end": 649.79,
+      "text": "program is priced actually at 3.5 lakhs on our website. But in this flash offer, we are giving"
+    },
+    {
+      "start": 649.79,
+      "end": 656.67,
+      "text": "the same program with all of these tools at just $95,000 or $1,200. You could make a partial"
+    },
+    {
+      "start": 656.67,
+      "end": 662.43,
+      "text": "payment today and the remaining payment can be paid over a period of time on this. I mean,"
+    },
+    {
+      "start": 662.43,
+      "end": 666.59,
+      "text": "as our team reaches out to you, right? So, when you go into this link, you will be able to find"
+    },
+    {
+      "start": 666.59,
+      "end": 671.39,
+      "text": "two different slots. You can open up the slot that works out for you and based on whether you are"
+    },
+    {
+      "start": 671.39,
+      "end": 676.11,
+      "text": "in India or whether you are outside of India, you could choose the link that works out for you"
+    },
+    {
+      "start": 676.11,
+      "end": 684.67,
+      "text": "in case you are from India. You select the option and once you select the option, you will be able"
+    },
+    {
+      "start": 684.67,
+      "end": 690.99,
+      "text": "to find the full payment and the booking amount options right here. You can tap on it and you"
+    },
+    {
+      "start": 690.99,
+      "end": 695.07,
+      "text": "can enter your details. Let's say you're going ahead with the booking amount right now. The"
+    },
+    {
+      "start": 695.07,
+      "end": 701.07,
+      "text": "remaining payment can be paid over the, I mean, over a period of time, right? Over the next couple"
+    },
+    {
+      "start": 701.55,
+      "end": 706.83,
+      "text": "over the next week, when our team reaches out to you and you have multiple payment options to go"
+    },
+    {
+      "start": 706.83,
+      "end": 713.31,
+      "text": "ahead and make the remaining payment as well. You can split it by three months or six months"
+    },
+    {
+      "start": 713.31,
+      "end": 717.47,
+      "text": "or even beyond of that based on the payment plans that you're going ahead and taking. So,"
+    },
+    {
+      "start": 717.47,
+      "end": 726.58,
+      "text": "just fill up your details right here. You could simply drop in your details and proceed to checkout"
+    },
+    {
+      "start": 726.58,
+      "end": 731.3,
+      "text": "and you can go ahead and make your booking happen. Now, there is something that we have"
+    },
+    {
+      "start": 731.3,
+      "end": 737.3,
+      "text": "added here for all of you to take a look at, which is an annual pass as well. If you want access to"
+    },
+    {
+      "start": 737.3,
+      "end": 742.34,
+      "text": "all the future accelerator programs that we would be conducting, that is when you could go ahead and"
+    },
+    {
+      "start": 742.34,
+      "end": 748.58,
+      "text": "take this add-on as well. If you don't want access to future accelerators at a single price,"
+    },
+    {
+      "start": 748.58,
+      "end": 753.3,
+      "text": "then you don't have to select this. You can just go ahead and make your booking happen right now."
+    },
+    {
+      "start": 753.78,
+      "end": 765.38,
+      "text": "Is that clear, everyone? I hope it is clear. Any questions I'm happy to take, but if you don't"
+    },
+    {
+      "start": 765.38,
+      "end": 770.18,
+      "text": "have any questions at this point of time, you could go ahead, take your lunch break and come back"
+    },
+    {
+      "start": 770.18,
+      "end": 778.42,
+      "text": "exactly by 2.30 pm IST. Will we get the free tools access? You will be getting all of these"
+    },
+    {
+      "start": 778.42,
+      "end": 783.22,
+      "text": "tools that we have mentioned. Nand Kishore, you can block your seat right now for the dates that"
+    },
+    {
+      "start": 783.78,
+      "end": 788.5,
+      "text": "are there and then defer to a future batch as well so that the price remains the same."
+    },
+    {
+      "start": 789.38,
+      "end": 793.3,
+      "text": "After the course, are we going to be getting personal mentoring for doubt solving? It's not"
+    },
+    {
+      "start": 793.3,
+      "end": 797.86,
+      "text": "going to be one-on-one mentoring, but it's going to be one-to-one mentoring. Devendra,"
+    },
+    {
+      "start": 797.86,
+      "end": 807.1,
+      "text": "I mentioned that already. The total duration of the program is one year. Devraj, the content"
+    },
+    {
+      "start": 807.1,
+      "end": 811.82,
+      "text": "library, you have three different content libraries that you will be getting, an AI content library,"
+    },
+    {
+      "start": 811.82,
+      "end": 816.46,
+      "text": "modern business fellowship content library, and a monetization content library as well."
+    },
+    {
+      "start": 816.46,
+      "end": 821.9,
+      "text": "Can I use it for someone else in case I cannot attend? Yes, you can transfer enrollment as well."
+    },
+    {
+      "start": 821.9,
+      "end": 826.22,
+      "text": "How the learning course will be different from the today workshop? I explained all of that to"
+    },
+    {
+      "start": 826.22,
+      "end": 833.18,
+      "text": "you already, Prashant. If I book a seat, yes, Prasanjeet, you could write an email to us about"
+    },
+    {
+      "start": 833.18,
+      "end": 842.3,
+      "text": "that. Can you please share your Rajab? Just write an email to me and I will interview you out with"
+    },
+    {
+      "start": 842.3,
+      "end": 852.02,
+      "text": "that. The roadmap is something that I will be giving towards the end of the day. Vaishnavi,"
+    },
+    {
+      "start": 852.02,
+      "end": 856.26,
+      "text": "there is no issue with the payment link. Could you please try again in case that is failing for"
+    },
+    {
+      "start": 856.26,
+      "end": 883.42,
+      "text": "you? I think we have about four more slots remaining at this point of time. Okay, access to the pro"
+    },
+    {
+      "start": 883.42,
+      "end": 898.3,
+      "text": "version of Whisperflow. Saudha, it's a period of six months of extension that you would be getting to"
+    },
+    {
+      "start": 898.3,
+      "end": 899.82,
+      "text": "make the remaining payment."
+    }
+  ]
+}

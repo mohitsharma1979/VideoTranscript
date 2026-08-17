@@ -1,0 +1,1339 @@
+{
+  "engine": "faster-whisper",
+  "file": "middle.wav",
+  "elapsed_seconds": 180.7688119999948,
+  "language": "en",
+  "language_probability": 0.9897066354751587,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.08,
+      "text": "So Ruhi, let me quickly show this to you right now."
+    },
+    {
+      "start": 3.08,
+      "end": 5.56,
+      "text": "The moment I just go back to latest,"
+    },
+    {
+      "start": 5.56,
+      "end": 10.56,
+      "text": "and if I just switch to something called as code,"
+    },
+    {
+      "start": 10.6,
+      "end": 14.52,
+      "text": "right here, you can see the entire code"
+    },
+    {
+      "start": 14.52,
+      "end": 16.28,
+      "text": "of our application."
+    },
+    {
+      "start": 16.28,
+      "end": 19.32,
+      "text": "And this is our code, which means"
+    },
+    {
+      "start": 19.32,
+      "end": 22.4,
+      "text": "this is our intellectual property."
+    },
+    {
+      "start": 22.4,
+      "end": 24.16,
+      "text": "This is our IP, right?"
+    },
+    {
+      "start": 24.16,
+      "end": 26.24,
+      "text": "It's our code now."
+    },
+    {
+      "start": 26.24,
+      "end": 29.04,
+      "text": "So we can go ahead and use this code."
+    },
+    {
+      "start": 29.04,
+      "end": 31.0,
+      "text": "We can modify this code."
+    },
+    {
+      "start": 31.0,
+      "end": 32.2,
+      "text": "We can update this code."
+    },
+    {
+      "start": 32.2,
+      "end": 34.72,
+      "text": "We can do whatever we want to, right?"
+    },
+    {
+      "start": 34.72,
+      "end": 36.4,
+      "text": "So that's basically how it is."
+    },
+    {
+      "start": 38.2,
+      "end": 41.52,
+      "text": "Okay, guys, I think we are almost there, right?"
+    },
+    {
+      "start": 41.52,
+      "end": 46.52,
+      "text": "I think we're almost there testing prop flow in browser."
+    },
+    {
+      "start": 47.36,
+      "end": 52.28,
+      "text": "Guys, another job of a QA tester, right?"
+    },
+    {
+      "start": 52.28,
+      "end": 57.28,
+      "text": "Another job of a QA tester, AI is doing it by itself."
+    },
+    {
+      "start": 57.52,
+      "end": 58.76,
+      "text": "Do you see this?"
+    },
+    {
+      "start": 58.76,
+      "end": 61.24,
+      "text": "Guys, this used to be a job, guys."
+    },
+    {
+      "start": 61.24,
+      "end": 63.28,
+      "text": "Like, do you get it?"
+    },
+    {
+      "start": 63.28,
+      "end": 65.48,
+      "text": "This used to be a job where, you know,"
+    },
+    {
+      "start": 65.48,
+      "end": 67.84,
+      "text": "after the app is entirely built out,"
+    },
+    {
+      "start": 67.84,
+      "end": 70.36,
+      "text": "it was sent out to a QA tester."
+    },
+    {
+      "start": 70.36,
+      "end": 76.5,
+      "text": "The QA tester used to, yeah, the QA tester used to, you know,"
+    },
+    {
+      "start": 76.5,
+      "end": 85.12,
+      "text": "a look at it, test it out, right?"
+    },
+    {
+      "start": 85.12,
+      "end": 86.96,
+      "text": "Yes, Walter, you are correct."
+    },
+    {
+      "start": 86.96,
+      "end": 88.04,
+      "text": "Walter, you are correct."
+    },
+    {
+      "start": 88.04,
+      "end": 97.09,
+      "text": "It's months of development work."
+    },
+    {
+      "start": 97.09,
+      "end": 99.33,
+      "text": "Okay, for chatbot, AI API is needed."
+    },
+    {
+      "start": 99.33,
+      "end": 100.69,
+      "text": "Yes, Kunal, it is."
+    },
+    {
+      "start": 100.69,
+      "end": 105.27,
+      "text": "So Lovable adds its own API as well."
+    },
+    {
+      "start": 105.27,
+      "end": 109.83,
+      "text": "Okay, signing up for every test agent,"
+    },
+    {
+      "start": 109.83,
+      "end": 114.83,
+      "text": "retrying the signup flow chart for flow test, okay?"
+    },
+    {
+      "start": 121.93,
+      "end": 123.21,
+      "text": "Okay, I think we're getting close."
+    },
+    {
+      "start": 123.21,
+      "end": 124.47,
+      "text": "We're getting close."
+    },
+    {
+      "start": 125.69,
+      "end": 128.09,
+      "text": "Retrying the signup flow."
+    },
+    {
+      "start": 128.09,
+      "end": 132.97,
+      "text": "Guys, our QA tester is now able to test it out."
+    },
+    {
+      "start": 132.97,
+      "end": 134.45,
+      "text": "Now our QA tester is, you know,"
+    },
+    {
+      "start": 134.45,
+      "end": 136.29,
+      "text": "it's able to, you know,"
+    },
+    {
+      "start": 136.29,
+      "end": 139.09,
+      "text": "see if our application is working or not."
+    },
+    {
+      "start": 139.09,
+      "end": 140.89,
+      "text": "Guys, isn't it crazy?"
+    },
+    {
+      "start": 140.89,
+      "end": 144.53,
+      "text": "It's like five to six engineers, developers,"
+    },
+    {
+      "start": 144.53,
+      "end": 146.77,
+      "text": "all of them properly, you know,"
+    },
+    {
+      "start": 146.77,
+      "end": 151.77,
+      "text": "in our entire chat working together, right?"
+    },
+    {
+      "start": 154.23,
+      "end": 160.2,
+      "text": "Okay, okay, okay, okay, we're getting close."
+    },
+    {
+      "start": 160.2,
+      "end": 161.78,
+      "text": "Let's see the thought process."
+    },
+    {
+      "start": 161.78,
+      "end": 163.58,
+      "text": "The toggle button might be failing"
+    },
+    {
+      "start": 163.58,
+      "end": 167.52,
+      "text": "because the selector doesn't match the actual button text."
+    },
+    {
+      "start": 167.52,
+      "end": 171.22,
+      "text": "It's looking for new to prop flow, create an account."
+    },
+    {
+      "start": 171.22,
+      "end": 174.76,
+      "text": "When the name might be different, that's crazy, okay?"
+    },
+    {
+      "start": 174.76,
+      "end": 177.52,
+      "text": "It's trying to understand its own, you know,"
+    },
+    {
+      "start": 177.52,
+      "end": 182.26,
+      "text": "kind of errors that might be there on the website."
+    },
+    {
+      "start": 182.26,
+      "end": 187.22,
+      "text": "The toggle button text should be matching, okay?"
+    },
+    {
+      "start": 187.22,
+      "end": 191.46,
+      "text": "It's gonna retry the test for us."
+    },
+    {
+      "start": 191.46,
+      "end": 192.34,
+      "text": "Let's wait for it."
+    },
+    {
+      "start": 192.34,
+      "end": 207.16,
+      "text": "It's gonna retry the test for us, okay?"
+    },
+    {
+      "start": 208.08,
+      "end": 210.72,
+      "text": "Yeah, exactly, thought for six seconds."
+    },
+    {
+      "start": 210.72,
+      "end": 215.24,
+      "text": "Yes, of our, yeah, it's, you know,"
+    },
+    {
+      "start": 215.24,
+      "end": 222.81,
+      "text": "it was thinking for six seconds."
+    },
+    {
+      "start": 222.81,
+      "end": 225.53,
+      "text": "Okay, once again, it's checking this again."
+    },
+    {
+      "start": 225.53,
+      "end": 230.74,
+      "text": "I don't know why it's checking it so many times though."
+    },
+    {
+      "start": 230.74,
+      "end": 236.27,
+      "text": "Testing signup dashboard and AI assistant."
+    },
+    {
+      "start": 236.27,
+      "end": 238.75,
+      "text": "Yes, we can absolutely host it as well."
+    },
+    {
+      "start": 238.75,
+      "end": 251.51,
+      "text": "Once we build it out, we can host it as well."
+    },
+    {
+      "start": 251.51,
+      "end": 257.08,
+      "text": "Okay, exactly, exactly George."
+    },
+    {
+      "start": 257.08,
+      "end": 259.92,
+      "text": "I think it seems to be stuck in the, you know,"
+    },
+    {
+      "start": 259.92,
+      "end": 262.64,
+      "text": "Google sign in thing."
+    },
+    {
+      "start": 262.64,
+      "end": 263.48,
+      "text": "Let's see."
+    },
+    {
+      "start": 263.48,
+      "end": 267.24,
+      "text": "Maybe it figured out an error or maybe it's able to, you know,"
+    },
+    {
+      "start": 267.24,
+      "end": 279.86,
+      "text": "find the error and able to fix it."
+    },
+    {
+      "start": 279.86,
+      "end": 283.3,
+      "text": "Okay, I think this almost took 51 seconds to work on it."
+    },
+    {
+      "start": 283.3,
+      "end": 285.82,
+      "text": "So let's see, let's see."
+    },
+    {
+      "start": 287.34,
+      "end": 288.3,
+      "text": "Guys, do you see it?"
+    },
+    {
+      "start": 288.3,
+      "end": 291.3,
+      "text": "I think there's like an image of the dashboard."
+    },
+    {
+      "start": 291.3,
+      "end": 293.46,
+      "text": "I think it's not a fully built out thing,"
+    },
+    {
+      "start": 293.46,
+      "end": 296.06,
+      "text": "but we are almost there."
+    },
+    {
+      "start": 296.06,
+      "end": 298.58,
+      "text": "Guys, damn, doesn't it look so good?"
+    },
+    {
+      "start": 298.58,
+      "end": 300.86,
+      "text": "The dashboard looks really good."
+    },
+    {
+      "start": 302.22,
+      "end": 303.46,
+      "text": "I think we're getting close."
+    },
+    {
+      "start": 303.46,
+      "end": 305.26,
+      "text": "We're getting very, very close."
+    },
+    {
+      "start": 305.26,
+      "end": 308.14,
+      "text": "Yes, it's the login page, but it's still an image though."
+    },
+    {
+      "start": 308.14,
+      "end": 309.06,
+      "text": "It's not built out."
+    },
+    {
+      "start": 309.06,
+      "end": 310.62,
+      "text": "It's still an image."
+    },
+    {
+      "start": 310.62,
+      "end": 314.54,
+      "text": "So a retesting dashboard."
+    },
+    {
+      "start": 314.54,
+      "end": 317.5,
+      "text": "Okay, it's testing it way too many times at this point."
+    },
+    {
+      "start": 318.62,
+      "end": 319.94,
+      "text": "Let me see."
+    },
+    {
+      "start": 319.94,
+      "end": 321.98,
+      "text": "Should I be waiting or should I prompt it again?"
+    },
+    {
+      "start": 321.98,
+      "end": 325.82,
+      "text": "Let me think."
+    },
+    {
+      "start": 325.82,
+      "end": 328.46,
+      "text": "Yeah, but looking at the image, it looks very good."
+    },
+    {
+      "start": 328.46,
+      "end": 330.42,
+      "text": "It looks very, very professional."
+    },
+    {
+      "start": 330.42,
+      "end": 332.02,
+      "text": "Okay, I think it did work, right?"
+    },
+    {
+      "start": 332.02,
+      "end": 333.18,
+      "text": "Do you see that?"
+    },
+    {
+      "start": 333.18,
+      "end": 336.62,
+      "text": "Account created, check your email to confirm the sign in."
+    },
+    {
+      "start": 336.62,
+      "end": 341.75,
+      "text": "So I'm guessing it actually worked."
+    },
+    {
+      "start": 341.75,
+      "end": 344.23,
+      "text": "Okay, guys, look at that."
+    },
+    {
+      "start": 344.23,
+      "end": 347.11,
+      "text": "That's how the chat, the dashboard looks like."
+    },
+    {
+      "start": 347.11,
+      "end": 351.31,
+      "text": "Okay, now I can't wait to see the entire dashboard"
+    },
+    {
+      "start": 351.31,
+      "end": 353.03,
+      "text": "working in person."
+    },
+    {
+      "start": 353.03,
+      "end": 355.11,
+      "text": "All right, let's wait for it."
+    },
+    {
+      "start": 355.11,
+      "end": 358.27,
+      "text": "Testing the assistant endpoint, checking the AI,"
+    },
+    {
+      "start": 358.27,
+      "end": 365.56,
+      "text": "gateway connection."
+    },
+    {
+      "start": 365.6,
+      "end": 368.72,
+      "text": "Okay, the issue isn't a code bug,"
+    },
+    {
+      "start": 368.72,
+      "end": 370.52,
+      "text": "but rather the gateway blocking"
+    },
+    {
+      "start": 370.52,
+      "end": 372.76,
+      "text": "due to workspace credit limit."
+    },
+    {
+      "start": 372.76,
+      "end": 375.6,
+      "text": "Okay, I think it's just that I just have to add"
+    },
+    {
+      "start": 375.6,
+      "end": 379.52,
+      "text": "some more credits into my loveable account,"
+    },
+    {
+      "start": 379.52,
+      "end": 383.0,
+      "text": "but the rest would be properly working completely."
+    },
+    {
+      "start": 383.0,
+      "end": 389.53,
+      "text": "So let's test this out."
+    },
+    {
+      "start": 389.53,
+      "end": 403.52,
+      "text": "Okay, okay, it's reading its guys."
+    },
+    {
+      "start": 403.52,
+      "end": 407.2,
+      "text": "It's reading its own server logs, right?"
+    },
+    {
+      "start": 407.2,
+      "end": 409.52,
+      "text": "Whatever log it might have just made,"
+    },
+    {
+      "start": 409.52,
+      "end": 412.0,
+      "text": "it's looking into all of it by itself."
+    },
+    {
+      "start": 413.28,
+      "end": 416.08,
+      "text": "Guys, I think it's almost done."
+    },
+    {
+      "start": 417.2,
+      "end": 418.04,
+      "text": "Guys, do you see that?"
+    },
+    {
+      "start": 418.04,
+      "end": 422.32,
+      "text": "It says prompt, prompt flow MVP is live."
+    },
+    {
+      "start": 422.32,
+      "end": 424.36,
+      "text": "Landing plus email, Google sign in."
+    },
+    {
+      "start": 424.36,
+      "end": 425.82,
+      "text": "Guys, it's live right now."
+    },
+    {
+      "start": 426.88,
+      "end": 430.52,
+      "text": "Poof, I think that was a lot of effort, wasn't it?"
+    },
+    {
+      "start": 430.52,
+      "end": 434.4,
+      "text": "That was a lot of hard work giving it a prompt"
+    },
+    {
+      "start": 434.4,
+      "end": 436.8,
+      "text": "and laying back and vibing with you guys."
+    },
+    {
+      "start": 436.8,
+      "end": 439.5,
+      "text": "Guys, that was a lot of hard work, right?"
+    },
+    {
+      "start": 440.5,
+      "end": 442.58,
+      "text": "Like how engineers would have done it."
+    },
+    {
+      "start": 442.58,
+      "end": 445.06,
+      "text": "They might have taken days to do it."
+    },
+    {
+      "start": 445.06,
+      "end": 446.94,
+      "text": "Right, guys, I put in a lot of effort."
+    },
+    {
+      "start": 446.94,
+      "end": 450.58,
+      "text": "Poof, okay, right?"
+    },
+    {
+      "start": 450.58,
+      "end": 455.42,
+      "text": "Okay, now let's go ahead and actually check it out."
+    },
+    {
+      "start": 455.42,
+      "end": 458.4,
+      "text": "Guys, you all ready to check this out?"
+    },
+    {
+      "start": 458.4,
+      "end": 460.94,
+      "text": "Boom in the chat, guys, to check it out."
+    },
+    {
+      "start": 460.94,
+      "end": 467.73,
+      "text": "Boom in the chat, please."
+    },
+    {
+      "start": 467.73,
+      "end": 471.53,
+      "text": "Okay, let's go ahead and test it out."
+    },
+    {
+      "start": 471.53,
+      "end": 473.33,
+      "text": "Let me click on the preview button."
+    },
+    {
+      "start": 474.61,
+      "end": 479.61,
+      "text": "Damn, I think that looks really good."
+    },
+    {
+      "start": 481.17,
+      "end": 482.97,
+      "text": "That looks good."
+    },
+    {
+      "start": 482.97,
+      "end": 489.38,
+      "text": "Your leads, listing and site visits, finally in one flow."
+    },
+    {
+      "start": 491.14,
+      "end": 493.18,
+      "text": "Okay, guys, I didn't even ask it"
+    },
+    {
+      "start": 493.18,
+      "end": 496.78,
+      "text": "to build out a landing page and it did."
+    },
+    {
+      "start": 496.78,
+      "end": 499.7,
+      "text": "It even built out a landing page as well."
+    },
+    {
+      "start": 499.7,
+      "end": 501.26,
+      "text": "Let's go ahead and test it out."
+    },
+    {
+      "start": 501.26,
+      "end": 502.86,
+      "text": "Let's sign in, okay?"
+    },
+    {
+      "start": 502.86,
+      "end": 507.71,
+      "text": "Let me click on the sign in button"
+    },
+    {
+      "start": 507.75,
+      "end": 509.01,
+      "text": "and let's see."
+    },
+    {
+      "start": 509.95,
+      "end": 512.47,
+      "text": "Poof, it looks good."
+    },
+    {
+      "start": 512.47,
+      "end": 514.43,
+      "text": "Okay, now let's check it out."
+    },
+    {
+      "start": 514.43,
+      "end": 516.67,
+      "text": "Okay, let me connect with Google"
+    },
+    {
+      "start": 518.33,
+      "end": 526.94,
+      "text": "and okay, let me connect with my account."
+    },
+    {
+      "start": 526.94,
+      "end": 532.22,
+      "text": "Okay, now I just have to click on allow."
+    },
+    {
+      "start": 532.22,
+      "end": 541.1,
+      "text": "Okay, should be taking a second."
+    },
+    {
+      "start": 541.1,
+      "end": 546.1,
+      "text": "Guys, we have the entire dashboard"
+    },
+    {
+      "start": 546.14,
+      "end": 549.38,
+      "text": "completely built out right now."
+    },
+    {
+      "start": 550.3,
+      "end": 551.76,
+      "text": "Do you see that, guys?"
+    },
+    {
+      "start": 553.14,
+      "end": 558.14,
+      "text": "A complete dashboard, fully built out right now"
+    },
+    {
+      "start": 558.66,
+      "end": 561.62,
+      "text": "and we can check all different stages,"
+    },
+    {
+      "start": 561.62,
+      "end": 566.62,
+      "text": "everything, new, contacted, visit scheduled,"
+    },
+    {
+      "start": 568.22,
+      "end": 571.62,
+      "text": "everything we can completely check."
+    },
+    {
+      "start": 571.62,
+      "end": 573.02,
+      "text": "Let's click on properties."
+    },
+    {
+      "start": 574.58,
+      "end": 577.82,
+      "text": "Damn, I didn't even know I own so many properties."
+    },
+    {
+      "start": 578.82,
+      "end": 583.82,
+      "text": "Like a 2.5 crore property that's like $220,000 property guys"
+    },
+    {
+      "start": 584.54,
+      "end": 588.66,
+      "text": "and another $500,000 property, another $100,000,"
+    },
+    {
+      "start": 588.66,
+      "end": 590.62,
+      "text": "another $350,000 and two guys,"
+    },
+    {
+      "start": 590.62,
+      "end": 593.06,
+      "text": "I think I'm a multimillionaire at this point."
+    },
+    {
+      "start": 593.06,
+      "end": 594.78,
+      "text": "I own so many properties."
+    },
+    {
+      "start": 595.78,
+      "end": 600.1,
+      "text": "Okay, guys, isn't that amazing, right?"
+    },
+    {
+      "start": 600.1,
+      "end": 601.58,
+      "text": "Isn't that amazing?"
+    },
+    {
+      "start": 601.58,
+      "end": 603.78,
+      "text": "You see all of these, right?"
+    },
+    {
+      "start": 603.78,
+      "end": 605.2,
+      "text": "You see all of these."
+    },
+    {
+      "start": 605.2,
+      "end": 607.92,
+      "text": "Of course, these are all still test data."
+    },
+    {
+      "start": 607.92,
+      "end": 611.44,
+      "text": "It's test data that are just added by itself."
+    },
+    {
+      "start": 611.44,
+      "end": 614.44,
+      "text": "So it's not hallucination."
+    },
+    {
+      "start": 614.44,
+      "end": 616.58,
+      "text": "So Arpan, it's not hallucination."
+    },
+    {
+      "start": 616.58,
+      "end": 620.92,
+      "text": "It has added test data for us to test it out."
+    },
+    {
+      "start": 620.92,
+      "end": 623.24,
+      "text": "It is connected with the database for sure,"
+    },
+    {
+      "start": 623.24,
+      "end": 624.8,
+      "text": "but it just added test data"
+    },
+    {
+      "start": 624.8,
+      "end": 626.48,
+      "text": "because we just have to check it out."
+    },
+    {
+      "start": 626.48,
+      "end": 628.08,
+      "text": "That's the reason."
+    },
+    {
+      "start": 628.08,
+      "end": 631.82,
+      "text": "Let's check site visits as well."
+    },
+    {
+      "start": 631.82,
+      "end": 636.54,
+      "text": "Okay, site visits scheduled, all of this amazing, right?"
+    },
+    {
+      "start": 636.54,
+      "end": 637.82,
+      "text": "Perfect."
+    },
+    {
+      "start": 637.82,
+      "end": 639.5,
+      "text": "Now that this entire, guys,"
+    },
+    {
+      "start": 639.5,
+      "end": 642.54,
+      "text": "I think this part is absolutely perfect, right?"
+    },
+    {
+      "start": 642.54,
+      "end": 644.82,
+      "text": "This thing is even better."
+    },
+    {
+      "start": 644.82,
+      "end": 647.98,
+      "text": "So now let's go ahead and do this, right?"
+    },
+    {
+      "start": 647.98,
+      "end": 649.62,
+      "text": "Let me just go ahead and do this."
+    },
+    {
+      "start": 649.62,
+      "end": 651.46,
+      "text": "Yeah, the AI chat board, let's see."
+    },
+    {
+      "start": 651.46,
+      "end": 654.7,
+      "text": "I think I'm not sure if this might work."
+    },
+    {
+      "start": 654.7,
+      "end": 657.54,
+      "text": "It's because I might have to, you know,"
+    },
+    {
+      "start": 657.54,
+      "end": 659.46,
+      "text": "upgrade to that credits."
+    },
+    {
+      "start": 659.46,
+      "end": 660.3,
+      "text": "Let's see."
+    },
+    {
+      "start": 660.3,
+      "end": 661.62,
+      "text": "Let's see if it works."
+    },
+    {
+      "start": 661.62,
+      "end": 663.42,
+      "text": "Let me click on summarize my pipeline."
+    },
+    {
+      "start": 663.42,
+      "end": 664.26,
+      "text": "Let's see if that works."
+    },
+    {
+      "start": 664.26,
+      "end": 667.34,
+      "text": "Okay, AI credits are exhausted for this workspace,"
+    },
+    {
+      "start": 667.34,
+      "end": 668.42,
+      "text": "add credits."
+    },
+    {
+      "start": 668.42,
+      "end": 671.26,
+      "text": "I'll try to do that, but for now,"
+    },
+    {
+      "start": 671.26,
+      "end": 675.58,
+      "text": "let's go ahead and publish this, right?"
+    },
+    {
+      "start": 675.58,
+      "end": 679.46,
+      "text": "Let's go ahead and publish this and make it live."
+    },
+    {
+      "start": 679.46,
+      "end": 686.72,
+      "text": "Let me click on publish button,"
+    },
+    {
+      "start": 686.72,
+      "end": 688.2,
+      "text": "and then let me just go ahead"
+    },
+    {
+      "start": 688.2,
+      "end": 691.16,
+      "text": "and click on the publish button right here,"
+    },
+    {
+      "start": 691.16,
+      "end": 694.58,
+      "text": "and it would be able to publish everything live,"
+    },
+    {
+      "start": 694.58,
+      "end": 695.84,
+      "text": "and I'll be able to, you know,"
+    },
+    {
+      "start": 695.84,
+      "end": 698.4,
+      "text": "share it in the chat with you guys."
+    },
+    {
+      "start": 698.4,
+      "end": 708.92,
+      "text": "I'll be able to share it in the chat."
+    },
+    {
+      "start": 708.92,
+      "end": 712.2,
+      "text": "Okay, guys, our site is now live."
+    },
+    {
+      "start": 712.2,
+      "end": 715.0,
+      "text": "If I click on view site, visit site,"
+    },
+    {
+      "start": 715.0,
+      "end": 718.44,
+      "text": "this is the entire link."
+    },
+    {
+      "start": 718.44,
+      "end": 720.48,
+      "text": "If you wanna test it out,"
+    },
+    {
+      "start": 720.48,
+      "end": 724.78,
+      "text": "let me go ahead and paste it in the chat."
+    },
+    {
+      "start": 724.78,
+      "end": 726.84,
+      "text": "Guys, I'm pasting it in the chat."
+    },
+    {
+      "start": 726.84,
+      "end": 728.92,
+      "text": "Please test it out."
+    },
+    {
+      "start": 728.92,
+      "end": 729.86,
+      "text": "Please test it out."
+    },
+    {
+      "start": 729.86,
+      "end": 732.36,
+      "text": "Okay, the AI chat board is not working."
+    },
+    {
+      "start": 732.36,
+      "end": 735.48,
+      "text": "Let me try to make this work as well, okay?"
+    },
+    {
+      "start": 735.48,
+      "end": 737.96,
+      "text": "All right, guys, first test it out in a minute,"
+    },
+    {
+      "start": 737.96,
+      "end": 740.76,
+      "text": "and now I'm gonna quickly explain to you guys"
+    },
+    {
+      "start": 740.76,
+      "end": 744.12,
+      "text": "what I'm gonna do to make this work,"
+    },
+    {
+      "start": 744.12,
+      "end": 746.1,
+      "text": "and now we can test it out as well, okay?"
+    },
+    {
+      "start": 746.1,
+      "end": 746.94,
+      "text": "It works, right?"
+    },
+    {
+      "start": 746.94,
+      "end": 747.94,
+      "text": "It works, okay."
+    },
+    {
+      "start": 747.94,
+      "end": 752.94,
+      "text": "Now, right here, right here, let me explain this to you, okay?"
+    },
+    {
+      "start": 754.34,
+      "end": 757.2,
+      "text": "Now, now that you understand this,"
+    },
+    {
+      "start": 757.2,
+      "end": 761.02,
+      "text": "to make this, to make our AI chatbot work, okay?"
+    },
+    {
+      "start": 761.02,
+      "end": 764.48,
+      "text": "So our AI chatbot lives here, okay?"
+    },
+    {
+      "start": 764.48,
+      "end": 767.6,
+      "text": "Our AI chatbot, right?"
+    },
+    {
+      "start": 767.6,
+      "end": 768.84,
+      "text": "This is our AI chatbot."
+    },
+    {
+      "start": 770.04,
+      "end": 775.04,
+      "text": "Now, guys, to connect the backend with the AI chatbot,"
+    },
+    {
+      "start": 775.42,
+      "end": 776.24,
+      "text": "what do we need?"
+    },
+    {
+      "start": 777.36,
+      "end": 780.32,
+      "text": "Guys, what do we need to connect our AI chatbot?"
+    },
+    {
+      "start": 780.32,
+      "end": 781.76,
+      "text": "To backend, what do we need?"
+    },
+    {
+      "start": 781.76,
+      "end": 782.6,
+      "text": "An API, right?"
+    },
+    {
+      "start": 782.6,
+      "end": 784.08,
+      "text": "An API."
+    },
+    {
+      "start": 784.08,
+      "end": 787.16,
+      "text": "So right now, what I'm gonna do is,"
+    },
+    {
+      "start": 787.16,
+      "end": 792.16,
+      "text": "I am gonna add my own API into this"
+    },
+    {
+      "start": 792.2,
+      "end": 796.08,
+      "text": "and make the AI chatbot work."
+    },
+    {
+      "start": 796.08,
+      "end": 797.0,
+      "text": "Let's do that, okay?"
+    },
+    {
+      "start": 797.0,
+      "end": 799.88,
+      "text": "Let's quickly, quickly do this."
+    },
+    {
+      "start": 799.88,
+      "end": 804.24,
+      "text": "AI chatbot, and I'm showing this to you completely live, okay?"
+    },
+    {
+      "start": 804.24,
+      "end": 806.64,
+      "text": "And now, of course, you need the API."
+    },
+    {
+      "start": 806.64,
+      "end": 808.2,
+      "text": "Guys, any guesses?"
+    },
+    {
+      "start": 808.2,
+      "end": 813.0,
+      "text": "What API would you need to make the AI chatbot work?"
+    },
+    {
+      "start": 813.0,
+      "end": 815.68,
+      "text": "API is correct, but what API?"
+    },
+    {
+      "start": 817.0,
+      "end": 819.52,
+      "text": "What API would you need?"
+    },
+    {
+      "start": 819.52,
+      "end": 820.36,
+      "text": "Correct."
+    },
+    {
+      "start": 821.32,
+      "end": 822.56,
+      "text": "Absolutely."
+    },
+    {
+      "start": 822.56,
+      "end": 826.28,
+      "text": "I think Rudra has just mentioned it."
+    },
+    {
+      "start": 826.28,
+      "end": 829.4,
+      "text": "It's open AI API, right?"
+    },
+    {
+      "start": 829.4,
+      "end": 833.44,
+      "text": "We need the open AI API to go ahead"
+    },
+    {
+      "start": 833.44,
+      "end": 838.44,
+      "text": "and make our backend connect with our chatbot, right?"
+    },
+    {
+      "start": 839.28,
+      "end": 842.08,
+      "text": "We need the open AI API key."
+    },
+    {
+      "start": 842.08,
+      "end": 844.0,
+      "text": "Now, watch carefully."
+    },
+    {
+      "start": 844.0,
+      "end": 846.08,
+      "text": "Guys, please, please watch carefully"
+    },
+    {
+      "start": 846.08,
+      "end": 847.96,
+      "text": "on how I'm gonna get my API"
+    },
+    {
+      "start": 847.96,
+      "end": 850.32,
+      "text": "and how I would be adding it here, okay?"
+    },
+    {
+      "start": 851.12,
+      "end": 856.12,
+      "text": "Now, let me quickly go to my dashboard now."
+    },
+    {
+      "start": 857.2,
+      "end": 859.48,
+      "text": "I would be heading to a place,"
+    },
+    {
+      "start": 859.48,
+      "end": 864.48,
+      "text": "it's called platform.openai.com, right?"
+    },
+    {
+      "start": 867.56,
+      "end": 870.8,
+      "text": "Platform.openai.com."
+    },
+    {
+      "start": 870.8,
+      "end": 873.92,
+      "text": "This is where I would be able to,"
+    },
+    {
+      "start": 875.32,
+      "end": 879.6,
+      "text": "I would be able to grab my API key, right?"
+    },
+    {
+      "start": 879.64,
+      "end": 881.72,
+      "text": "I would be able to grab my API."
+    },
+    {
+      "start": 881.72,
+      "end": 885.92,
+      "text": "I'll get my API key from this place, okay?"
+    },
+    {
+      "start": 885.92,
+      "end": 890.64,
+      "text": "Now, yeah, so I do have some balance here."
+    },
+    {
+      "start": 890.64,
+      "end": 893.72,
+      "text": "So let me go ahead and quickly, quickly create an API key."
+    },
+    {
+      "start": 895.56,
+      "end": 897.28,
+      "text": "So let me create a quick API key."
+    },
+    {
+      "start": 897.28,
+      "end": 898.36,
+      "text": "I'm gonna call it,"
+    },
+    {
+      "start": 899.76,
+      "end": 900.6,
+      "text": "Rob."
+    }
+  ]
+}

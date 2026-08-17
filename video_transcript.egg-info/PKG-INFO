@@ -1,0 +1,135 @@
+Metadata-Version: 2.4
+Name: video-transcript
+Version: 0.1.0
+Summary: Offline, CLI-first video transcription with timestamps and simple chapters
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: psutil<8,>=5.9
+Provides-Extra: dev
+Requires-Dist: pytest<9,>=8; extra == "dev"
+
+# Video Transcript
+
+A local, CLI-first video transcription app. It extracts bounded audio chunks with FFmpeg, transcribes them using `whisper.cpp` with Metal acceleration on Apple Silicon, merges global timestamps, creates simple chapter-like sections, and removes every temporary audio chunk after processing.
+
+No cloud transcription API, account, or API token is required. Supported input containers are `.mov`, `.mp4`, `.mkv`, and `.avi` (codec support depends on FFmpeg).
+
+## How it works
+
+1. Read the video's duration with FFprobe.
+2. Extract one 15-minute, mono 16 kHz WAV chunk with a small boundary overlap.
+3. Transcribe that chunk locally with `whisper.cpp`, Metal, and voice-activity detection.
+4. Convert chunk timestamps back to the original video's timeline.
+5. Delete the WAV chunk immediately, then process the next one.
+6. Merge all segments and export Markdown, JSON, SRT, and WebVTT.
+
+Only one chunk exists at a time, so temporary disk and memory use remain bounded even for multi-hour videos.
+
+## Requirements
+
+- macOS on Apple Silicon (Metal is enabled by default)
+- Python 3.10 or newer
+- FFmpeg and FFprobe
+- `whisper.cpp` / `whisper-cli`
+- Local GGML Whisper and VAD model files
+
+## Install on macOS
+
+```bash
+brew install ffmpeg whisper-cpp python@3.12
+python3.12 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+pip install -e .
+```
+
+This working project already contains the tested models under `models/`. For a fresh checkout, download the public model files once—no login or token is needed:
+
+```bash
+mkdir -p models
+curl -fL https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-small.bin \
+  -o models/ggml-small.bin
+curl -fL https://huggingface.co/ggml-org/whisper-vad/resolve/main/ggml-silero-v6.2.0.bin \
+  -o models/ggml-silero-v6.2.0.bin
+```
+
+The model files are deliberately excluded from Git because the primary model is approximately 466 MiB. They are installed application assets, not disposable processing cache.
+
+## Use
+
+```bash
+video-transcript Input/Day-2-FirstHalf.mov
+```
+
+Results go to `transcripts/`:
+
+- `video.transcript.md` — readable chapters and timestamped transcript
+- `video.transcript.json` — structured data suitable for later ChatGPT or Claude processing
+- `video.srt` — subtitle file
+- `video.vtt` — web subtitle file
+
+Useful options:
+
+```bash
+# Known language avoids repeated automatic detection
+video-transcript talk.mov --language en
+
+# Custom output and chapter duration
+video-transcript meeting.mkv -o results --chapter-minutes 5
+
+# Change bounded processing chunk size
+video-transcript interview.avi --chunk-minutes 10
+
+# Diagnostic CPU-only run; Metal remains the default
+video-transcript talk.mov --cpu-only
+
+# Use different local model files
+video-transcript talk.mov \
+  --model-path /path/to/ggml-model.bin \
+  --vad-model-path /path/to/ggml-vad.bin
+
+video-transcript --help
+```
+
+The default three-second overlap gives Whisper context around each 15-minute boundary. A segment is kept by the chunk containing its midpoint, preventing duplicate timestamps while reducing cut-off words.
+
+## Cleanup behavior
+
+- Temporary WAV chunks and temporary `whisper.cpp` JSON are deleted after every chunk attempt.
+- The enclosing temporary workspace is deleted when the run completes, fails, or is cancelled.
+- Final transcript files are retained.
+- Files under `models/` are retained because transcription cannot run without them.
+
+## Run tests
+
+The dependency-free suite generates synthetic MP4 files and verifies bounded extraction, duration probing, timestamp conversion, chapter grouping, and every output format:
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+Optionally install the development extra and use pytest:
+
+```bash
+pip install -e '.[dev]'
+pytest
+```
+
+Tests do not download a model or call a cloud service.
+
+## Troubleshooting
+
+- **`whisper-cli was not found`**: run `brew install whisper-cpp` and open a new terminal.
+- **Model not found**: verify both `.bin` files exist under `models/`, or pass their paths explicitly.
+- **Metal allocation error**: close memory-heavy applications and retry; use `--cpu-only` only as a diagnostic fallback.
+- **No speech detected**: confirm the source contains audible speech and try `--language en` when appropriate.
+- **Unsupported codec**: install a full FFmpeg build or transcode the source first.
+- **Interrupted run**: temporary files are removed automatically; final output is written only after all chunks succeed.
+
+## Current MVP limitations
+
+- One input file per command; no batch queue or graphical UI.
+- A failed run restarts from the beginning; persistent resume checkpoints are not yet included.
+- Speaker identification is not included.
+- Chapters use timing and pauses, not semantic topic analysis.
+- Whisper timestamps are segment-level in the exported transcript.

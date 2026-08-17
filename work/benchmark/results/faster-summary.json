@@ -1,0 +1,36 @@
+{
+  "engine": "faster-whisper",
+  "model": "small",
+  "configuration": {
+    "device": "auto",
+    "compute_type": "default",
+    "beam_size": 5,
+    "vad": true
+  },
+  "model_load_seconds": 1.2194344999879831,
+  "total_elapsed_seconds": 548.400973374999,
+  "peak_rss_bytes": 2488565760,
+  "runs": [
+    {
+      "engine": "faster-whisper",
+      "file": "beginning.wav",
+      "elapsed_seconds": 180.6902085000038,
+      "language": "en",
+      "language_probability": 0.9306753873825073
+    },
+    {
+      "engine": "faster-whisper",
+      "file": "middle.wav",
+      "elapsed_seconds": 180.7688119999948,
+      "language": "en",
+      "language_probability": 0.9897066354751587
+    },
+    {
+      "engine": "faster-whisper",
+      "file": "end.wav",
+      "elapsed_seconds": 185.71713591599837,
+      "language": "en",
+      "language_probability": 0.7802969217300415
+    }
+  ]
+}

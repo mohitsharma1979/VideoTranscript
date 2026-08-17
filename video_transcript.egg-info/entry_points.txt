@@ -1,0 +1,2 @@
+[console_scripts]
+video-transcript = video_transcript.cli:main
